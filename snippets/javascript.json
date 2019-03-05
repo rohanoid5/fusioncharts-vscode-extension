@@ -1,0 +1,36 @@
+{
+  "FusionCharts-Instance": {
+    "prefix": "new FusionCharts",
+    "body": [
+      "new FusionCharts({",
+      "\twidth: '',",
+      "\theight: '',",
+      "\ttype: '',",
+      "\tdataFormat: '',",
+      "\trenderAt: '',",
+      "\tdataSource: {",
+      "\t\tchart: {",
+      "\t\t},",
+      "\t\tdata: [",
+      "\t\t]",
+      "\t}",
+      "});"
+    ],
+    "description": "Create a new FusionCharts instance"
+  },
+  "FusionCharts-Caption": {
+    "prefix": "caption",
+    "body": "\"caption\": \"Add a caption here\",",
+    "description": "Add the Caption of the chart"
+  },
+  "FusionCharts-Subcaption": {
+    "prefix": "subCaption",
+    "body": "\"subCaption\": \"Add a subcaption here\",",
+    "description": "Add the Subcaption of the chart"
+  },
+  "FusionCharts-Caption-Position": {
+    "prefix": "captionOnTop",
+    "body": "\"captionOnTop\": \"${1|1,0|}\",",
+    "description": "Whether caption should be on top of the data plot area"
+  }
+}
