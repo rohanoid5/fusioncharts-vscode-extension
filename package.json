@@ -7,19 +7,13 @@
     "vscode": "^1.31.0"
   },
   "categories": [
-    "Other"
+    "Snippets"
   ],
   "activationEvents": [
     "*"
   ],
   "main": "./out/extension.js",
   "contributes": {
-    "commands": [
-      {
-        "command": "extension.helloWorld",
-        "title": "Hello World"
-      }
-    ],
     "snippets": [
       {
         "language": "javascript",
