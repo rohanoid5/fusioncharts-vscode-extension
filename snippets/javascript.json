@@ -38,7 +38,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a column2d chart in FusionCharts"
   },
   "column3d": {
     "prefix": "FC.column3d",
@@ -59,7 +59,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a column3d chart in FusionCharts"
   },
   "line": {
     "prefix": "FC.line",
@@ -80,7 +80,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a line chart in FusionCharts"
   },
   "area2d": {
     "prefix": "FC.area2d",
@@ -101,7 +101,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a area2d chart in FusionCharts"
   },
   "bar2d": {
     "prefix": "FC.bar2d",
@@ -122,7 +122,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a bar2d chart in FusionCharts"
   },
   "bar3d": {
     "prefix": "FC.bar3d",
@@ -143,7 +143,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a bar3d chart in FusionCharts"
   },
   "pie2d": {
     "prefix": "FC.pie2d",
@@ -164,7 +164,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a pie2d chart in FusionCharts"
   },
   "pie3d": {
     "prefix": "FC.pie3d",
@@ -185,7 +185,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a pie3d chart in FusionCharts"
   },
   "doughnut2d": {
     "prefix": "FC.doughnut2d",
@@ -206,7 +206,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a doughnut2d chart in FusionCharts"
   },
   "doughnut3d": {
     "prefix": "FC.doughnut3d",
@@ -227,7 +227,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a doughnut3d chart in FusionCharts"
   },
   "pareto2d": {
     "prefix": "FC.pareto2d",
@@ -248,7 +248,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a pareto2d chart in FusionCharts"
   },
   "pareto3d": {
     "prefix": "FC.pareto3d",
@@ -269,7 +269,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a pareto3d chart in FusionCharts"
   },
   "mscolumn2d": {
     "prefix": "FC.mscolumn2d",
@@ -290,7 +290,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a mscolumn2d chart in FusionCharts"
   },
   "mscolumn3d": {
     "prefix": "FC.mscolumn3d",
@@ -311,7 +311,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a mscolumn3d chart in FusionCharts"
   },
   "msline": {
     "prefix": "FC.msline",
@@ -332,7 +332,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a msline chart in FusionCharts"
   },
   "msbar2d": {
     "prefix": "FC.msbar2d",
@@ -353,7 +353,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a msbar2d chart in FusionCharts"
   },
   "msbar3d": {
     "prefix": "FC.msbar3d",
@@ -374,7 +374,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a msbar3d chart in FusionCharts"
   },
   "overlappedcolumn2d": {
     "prefix": "FC.overlappedcolumn2d",
@@ -395,7 +395,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a overlappedcolumn2d chart in FusionCharts"
   },
   "overlappedbar2d": {
     "prefix": "FC.overlappedbar2d",
@@ -416,7 +416,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a overlappedbar2d chart in FusionCharts"
   },
   "msarea": {
     "prefix": "FC.msarea",
@@ -437,7 +437,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a msarea chart in FusionCharts"
   },
   "marimekko": {
     "prefix": "FC.marimekko",
@@ -458,7 +458,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a marimekko chart in FusionCharts"
   },
   "zoomline": {
     "prefix": "FC.zoomline",
@@ -479,7 +479,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a zoomline chart in FusionCharts"
   },
   "zoomlinedy": {
     "prefix": "FC.zoomlinedy",
@@ -500,7 +500,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a zoomlinedy chart in FusionCharts"
   },
   "stackedcolumn2d": {
     "prefix": "FC.stackedcolumn2d",
@@ -521,7 +521,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a stackedcolumn2d chart in FusionCharts"
   },
   "stackedcolumn3d": {
     "prefix": "FC.stackedcolumn3d",
@@ -542,7 +542,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a stackedcolumn3d chart in FusionCharts"
   },
   "stackedbar2d": {
     "prefix": "FC.stackedbar2d",
@@ -563,7 +563,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a stackedbar2d chart in FusionCharts"
   },
   "stackedbar3d": {
     "prefix": "FC.stackedbar3d",
@@ -584,7 +584,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a stackedbar3d chart in FusionCharts"
   },
   "stackedarea2d": {
     "prefix": "FC.stackedarea2d",
@@ -605,7 +605,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a stackedarea2d chart in FusionCharts"
   },
   "msstackedcolumn2d": {
     "prefix": "FC.msstackedcolumn2d",
@@ -626,7 +626,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a msstackedcolumn2d chart in FusionCharts"
   },
   "mscombi2d": {
     "prefix": "FC.mscombi2d",
@@ -647,7 +647,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a mscombi2d chart in FusionCharts"
   },
   "mscombi3d": {
     "prefix": "FC.mscombi3d",
@@ -668,7 +668,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a mscombi3d chart in FusionCharts"
   },
   "mscolumnline3d": {
     "prefix": "FC.mscolumnline3d",
@@ -689,7 +689,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a mscolumnline3d chart in FusionCharts"
   },
   "stackedcolumn2dline": {
     "prefix": "FC.stackedcolumn2dline",
@@ -710,7 +710,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a stackedcolumn2dline chart in FusionCharts"
   },
   "stackedcolumn3dline": {
     "prefix": "FC.stackedcolumn3dline",
@@ -731,7 +731,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a stackedcolumn3dline chart in FusionCharts"
   },
   "mscombidy2d": {
     "prefix": "FC.mscombidy2d",
@@ -752,7 +752,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a mscombidy2d chart in FusionCharts"
   },
   "mscolumn3dlinedy": {
     "prefix": "FC.mscolumn3dlinedy",
@@ -773,7 +773,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a mscolumn3dlinedy chart in FusionCharts"
   },
   "stackedcolumn3dlinedy": {
     "prefix": "FC.stackedcolumn3dlinedy",
@@ -794,7 +794,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a stackedcolumn3dlinedy chart in FusionCharts"
   },
   "msstackedcolumn2dlinedy": {
     "prefix": "FC.msstackedcolumn2dlinedy",
@@ -815,7 +815,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a msstackedcolumn2dlinedy chart in FusionCharts"
   },
   "scatter": {
     "prefix": "FC.scatter",
@@ -836,7 +836,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a scatter chart in FusionCharts"
   },
   "zoomscatter": {
     "prefix": "FC.zoomscatter",
@@ -857,7 +857,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a zoomscatter chart in FusionCharts"
   },
   "bubble": {
     "prefix": "FC.bubble",
@@ -878,7 +878,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a bubble chart in FusionCharts"
   },
   "scrollcolumn2d": {
     "prefix": "FC.scrollcolumn2d",
@@ -899,7 +899,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a scrollcolumn2d chart in FusionCharts"
   },
   "scrollline2d": {
     "prefix": "FC.scrollline2d",
@@ -920,7 +920,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a scrollline2d chart in FusionCharts"
   },
   "scrollarea2d": {
     "prefix": "FC.scrollarea2d",
@@ -941,7 +941,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a scrollarea2d chart in FusionCharts"
   },
   "scrollstackedcolumn2d": {
     "prefix": "FC.scrollstackedcolumn2d",
@@ -962,7 +962,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a scrollstackedcolumn2d chart in FusionCharts"
   },
   "scrollcombi2d": {
     "prefix": "FC.scrollcombi2d",
@@ -983,7 +983,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a scrollcombi2d chart in FusionCharts"
   },
   "scrollcombidy2d": {
     "prefix": "FC.scrollcombidy2d",
@@ -1004,7 +1004,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a scrollcombidy2d chart in FusionCharts"
   },
   "angulargauge": {
     "prefix": "FC.angulargauge",
@@ -1025,7 +1025,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a angulargauge chart in FusionCharts"
   },
   "bulb": {
     "prefix": "FC.bulb",
@@ -1046,7 +1046,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a bulb chart in FusionCharts"
   },
   "cylinder": {
     "prefix": "FC.cylinder",
@@ -1067,7 +1067,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a cylinder chart in FusionCharts"
   },
   "hled": {
     "prefix": "FC.hled",
@@ -1088,7 +1088,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a hled chart in FusionCharts"
   },
   "hlineargauge": {
     "prefix": "FC.hlineargauge",
@@ -1109,7 +1109,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a hlineargauge chart in FusionCharts"
   },
   "thermometer": {
     "prefix": "FC.thermometer",
@@ -1130,7 +1130,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a thermometer chart in FusionCharts"
   },
   "vled": {
     "prefix": "FC.vled",
@@ -1151,7 +1151,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a vled chart in FusionCharts"
   },
   "realtimearea": {
     "prefix": "FC.realtimearea",
@@ -1172,7 +1172,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a realtimearea chart in FusionCharts"
   },
   "realtimecolumn": {
     "prefix": "FC.realtimecolumn",
@@ -1193,7 +1193,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a realtimecolumn chart in FusionCharts"
   },
   "realtimeline": {
     "prefix": "FC.realtimeline",
@@ -1214,7 +1214,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a realtimeline chart in FusionCharts"
   },
   "realtimestackedarea": {
     "prefix": "FC.realtimestackedarea",
@@ -1235,7 +1235,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a realtimestackedarea chart in FusionCharts"
   },
   "realtimestackedcolumn": {
     "prefix": "FC.realtimestackedcolumn",
@@ -1256,7 +1256,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a realtimestackedcolumn chart in FusionCharts"
   },
   "realtimelinedy": {
     "prefix": "FC.realtimelinedy",
@@ -1277,7 +1277,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a realtimelinedy chart in FusionCharts"
   },
   "sparkline": {
     "prefix": "FC.sparkline",
@@ -1298,7 +1298,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a sparkline chart in FusionCharts"
   },
   "sparkcolumn": {
     "prefix": "FC.sparkcolumn",
@@ -1319,7 +1319,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a sparkcolumn chart in FusionCharts"
   },
   "sparkwinloss": {
     "prefix": "FC.sparkwinloss",
@@ -1340,7 +1340,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a sparkwinloss chart in FusionCharts"
   },
   "hbullet": {
     "prefix": "FC.hbullet",
@@ -1361,7 +1361,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a hbullet chart in FusionCharts"
   },
   "vbullet": {
     "prefix": "FC.vbullet",
@@ -1382,7 +1382,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a vbullet chart in FusionCharts"
   },
   "funnel": {
     "prefix": "FC.funnel",
@@ -1403,7 +1403,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a funnel chart in FusionCharts"
   },
   "pyramid": {
     "prefix": "FC.pyramid",
@@ -1424,7 +1424,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a pyramid chart in FusionCharts"
   },
   "gantt": {
     "prefix": "FC.gantt",
@@ -1445,7 +1445,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a gantt chart in FusionCharts"
   },
   "logmscolumn2d": {
     "prefix": "FC.logmscolumn2d",
@@ -1466,7 +1466,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a logmscolumn2d chart in FusionCharts"
   },
   "logmsline": {
     "prefix": "FC.logmsline",
@@ -1487,7 +1487,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a logmsline chart in FusionCharts"
   },
   "spline": {
     "prefix": "FC.spline",
@@ -1508,7 +1508,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a spline chart in FusionCharts"
   },
   "splinearea": {
     "prefix": "FC.splinearea",
@@ -1529,7 +1529,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a splinearea chart in FusionCharts"
   },
   "msspline": {
     "prefix": "FC.msspline",
@@ -1550,7 +1550,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a msspline chart in FusionCharts"
   },
   "mssplinearea": {
     "prefix": "FC.mssplinearea",
@@ -1571,7 +1571,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a mssplinearea chart in FusionCharts"
   },
   "errorbar2d": {
     "prefix": "FC.errorbar2d",
@@ -1592,7 +1592,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a errorbar2d chart in FusionCharts"
   },
   "errorline": {
     "prefix": "FC.errorline",
@@ -1613,7 +1613,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a errorline chart in FusionCharts"
   },
   "errorscatter": {
     "prefix": "FC.errorscatter",
@@ -1634,7 +1634,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a errorscatter chart in FusionCharts"
   },
   "inversemsarea": {
     "prefix": "FC.inversemsarea",
@@ -1655,7 +1655,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a inversemsarea chart in FusionCharts"
   },
   "inversemscolumn2d": {
     "prefix": "FC.inversemscolumn2d",
@@ -1676,7 +1676,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a inversemscolumn2d chart in FusionCharts"
   },
   "inversemsline": {
     "prefix": "FC.inversemsline",
@@ -1697,7 +1697,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a inversemsline chart in FusionCharts"
   },
   "dragcolumn2d": {
     "prefix": "FC.dragcolumn2d",
@@ -1718,7 +1718,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a dragcolumn2d chart in FusionCharts"
   },
   "dragline": {
     "prefix": "FC.dragline",
@@ -1739,7 +1739,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a dragline chart in FusionCharts"
   },
   "dragarea": {
     "prefix": "FC.dragarea",
@@ -1760,7 +1760,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a dragarea chart in FusionCharts"
   },
   "treemap": {
     "prefix": "FC.treemap",
@@ -1781,7 +1781,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a treemap chart in FusionCharts"
   },
   "radar": {
     "prefix": "FC.radar",
@@ -1802,7 +1802,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a radar chart in FusionCharts"
   },
   "heatmap": {
     "prefix": "FC.heatmap",
@@ -1823,7 +1823,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a heatmap chart in FusionCharts"
   },
   "boxandwhisker2d": {
     "prefix": "FC.boxandwhisker2d",
@@ -1844,7 +1844,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a boxandwhisker2d chart in FusionCharts"
   },
   "candlestick": {
     "prefix": "FC.candlestick",
@@ -1865,7 +1865,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a candlestick chart in FusionCharts"
   },
   "dragnode": {
     "prefix": "FC.dragnode",
@@ -1886,7 +1886,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a dragnode chart in FusionCharts"
   },
   "msstepLine": {
     "prefix": "FC.msstepLine",
@@ -1907,7 +1907,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a msstepLine chart in FusionCharts"
   },
   "multiaxisline": {
     "prefix": "FC.multiaxisline",
@@ -1928,7 +1928,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a multiaxisline chart in FusionCharts"
   },
   "multilevelpie": {
     "prefix": "FC.multilevelpie",
@@ -1949,7 +1949,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a multilevelpie chart in FusionCharts"
   },
   "selectscatter": {
     "prefix": "FC.selectscatter",
@@ -1970,7 +1970,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a selectscatter chart in FusionCharts"
   },
   "waterfall2d": {
     "prefix": "FC.waterfall2d",
@@ -1991,7 +1991,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a waterfall2d chart in FusionCharts"
   },
   "kagi": {
     "prefix": "FC.kagi",
@@ -2012,7 +2012,7 @@
       "\t}",
       "});"
     ],
-    "description": "Create a Column2D chart in FusionCharts"
+    "description": "Create a kagi chart in FusionCharts"
   },
   "EditMode": {
     "prefix": "editMode",
@@ -2219,10 +2219,45 @@
     "description": "Description: Whether to display the trend-point value inside the gauge?\n      Type: Boolean\n      Range: 0/1",
     "body": "\"valueInside\": \"${1|1,0|}\""
   },
+  "PlotBinSize": {
+    "prefix": "plotBinSize",
+    "description": "Description: This attribute is used to skip the data plot without any change in visualization. When set to `1`, minimum one data plot will be rendered within the width of one pixel. \n\n Example, if `plotBinSize: 1`, minimum one column plot will be rendered within the width of one pixel. For line and area charts, minimum of two anchors connecting one single line will be drawn. If `plotBinSize: 0.5`, minimum two column plot will be rendered within the width of one pixel. Data skipping can be disabled by setting this attribute to `0`. \n\n Default value: __0.5__\n      Type: Number\n      Range: In Pixels",
+    "body": "\"plotBinSize\": \"\""
+  },
+  "LabelBinSize": {
+    "prefix": "labelBinSize",
+    "description": "Description: This attribute is used to skip the labels of the data plots. When set to `1`, minimum one label will be displayed within the width of one pixel. To disable this label skipping, set this attribute to `0`. \n\nDefault value: __1__\n      Type: Number\n      Range: In Pixels",
+    "body": "\"labelBinSize\": \"\""
+  },
   "AxisLineAlpha": {
     "prefix": "axisLineAlpha",
     "description": "Description: Sets the transparency of the x-axis line. Will work only when _showxaxisline_ is set to 1.\n      Type: Number\n      Range: 0 - 100",
     "body": "\"axisLineAlpha\": \"\""
+  },
+  "CenterXaxisName": {
+    "prefix": "centerXaxisName",
+    "description": "Description: This attribute when set to '1', allows you to align the x-axis name with respect to the height of the chart. When set to '0', the x-axis name is aligned with respect to the height of the canvas.\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"centerXaxisName\": \"${1|1,0|}\""
+  },
+  "RotateXAxisName": {
+    "prefix": "rotateXAxisName",
+    "description": "Description: If you do not wish to rotate x-axis name, set this as 0. It specifically comes to use when you've special characters (UTF8) in your x-axis name that do not show up in rotated mode.\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"rotateXAxisName\": \"${1|1,0|}\""
+  },
+  "XAxisNameWidth": {
+    "prefix": "xAxisNameWidth",
+    "description": "Description: If you opt to not rotate x-axis name, you can choose a maximum width that will be applied to x-axis name.\n      Type: Number\n      Range: (In Pixels)",
+    "body": "\"xAxisNameWidth\": \"\""
+  },
+  "PlotGradientColor": {
+    "prefix": "plotGradientColor",
+    "description": "Description: You can globally add a gradient color to the entire plot of chart by specifying the second color as this attribute. For example, if you've specified individual colors for your dataplots and now you want a gradient that ends in white. You need to specify FFFFFF (white) as this color and the chart will now draw plots as gradient.\n      Type: Color\n      Range: Hex Color Code",
+    "body": "\"plotGradientColor\": \"\""
+  },
+  "UsePlotGradientColor": {
+    "prefix": "usePlotGradientColor",
+    "description": "Description: Gradient color is a color added globally to the entire plot of chart by specifying the second color in an attribute. This attribute sets the gradient color to _true_. \n\n__Default value__: 0\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"usePlotGradientColor\": \"${1|1,0|}\""
   },
   "ShowAlternateVGridColor": {
     "prefix": "showAlternateVGridColor",
@@ -2239,6 +2274,26 @@
     "description": "Description: Alpha (transparency) of the alternate vertical grid bands.\n      Type: Number\n      Range: 0 - 100",
     "body": "\"alternateVGridAlpha\": \"\""
   },
+  "DrawCrossLine": {
+    "prefix": "drawCrossLine",
+    "description": "Description: This attribute sets a cross line (vertical line/area), when you hover a data plot. \n\nDefault value: __0__\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"drawCrossLine\": \"${1|1,0|}\""
+  },
+  "CrossLineAnimation": {
+    "prefix": "crossLineAnimation",
+    "description": "Description: This attributes enables the animation for the cross line. \n\nDefault value: __0__\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"crossLineAnimation\": \"${1|1,0|}\""
+  },
+  "CrossLineAnimationDuration": {
+    "prefix": "crossLineAnimationDuration",
+    "description": "Description: This attribute sets the animation duration of the cross line. \n\nDefault value: __0.09 seconds__\n      Type: Number\n      Range: In seconds",
+    "body": "\"crossLineAnimationDuration\": \"\""
+  },
+  "PlotColorinTooltip": {
+    "prefix": "plotColorinTooltip",
+    "description": "Description: This attribute displays the color of each plot with their labels in tooltip. \n\nDefault value: __0__\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"plotColorinTooltip\": \"${1|1,0|}\""
+  },
   "DrawCrossLineOnTop": {
     "prefix": "drawCrossLineOnTop",
     "description": "Description: This attribute is used to determine if the cross line will be drawn above the data plot or below the data plot. \n\nDefault value: __0__\n      Type: Boolean\n      Range: 0/1",
@@ -2249,10 +2304,405 @@
     "description": "Description: Name of JavaScript function that'll be called back when export process has finished in case of:Client side exportBatch exportServer-side export using 'save' as action\n      Type: String\n",
     "body": "\"exportCallback\": \"\""
   },
+  "PlotHoverGradientColor": {
+    "prefix": "plotHoverGradientColor",
+    "description": "Description: Specifies the gradient color for the data plots when hovered. For example, if you've specified individual colors and now you want hover color that ends in white, You need to specify it.\n      Type: Color\n      Range: Hex Color Code",
+    "body": "\"plotHoverGradientColor\": \"\""
+  },
+  "PlotHoverRatio": {
+    "prefix": "plotHoverRatio",
+    "description": "Description: Helps you specify the ratio of gradient colors when hovered.\n      Type: Number\n",
+    "body": "\"plotHoverRatio\": \"\""
+  },
+  "PlotHoverAngle": {
+    "prefix": "plotHoverAngle",
+    "description": "Description: This attribute specifies the angle of the gradient color when hovered.\n      Type: Number\n",
+    "body": "\"plotHoverAngle\": \"\""
+  },
+  "PlotBorderHoverDashed": {
+    "prefix": "plotBorderHoverDashed",
+    "description": "Description: When a data plot is hovered, this attribute is used to specify whether the data plot border will be rendered as a dashed line. \n\n__Default value__: 0 (border rendered using straight lines)\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"plotBorderHoverDashed\": \"${1|1,0|}\""
+  },
+  "PlotBorderHoverDashLen": {
+    "prefix": "plotBorderHoverDashLen",
+    "description": "Description: When a data plot is hovered, this attribute is used to set the length of each dash if the border around the data plots are rendered using dashed lines.\n      Type: Number\n      Range: In pixels",
+    "body": "\"plotBorderHoverDashLen\": \"\""
+  },
+  "PlotBorderHoverDashGap": {
+    "prefix": "plotBorderHoverDashGap",
+    "description": "Description: When a data plot is hovered, this attribute is used to set the gap between consecutive dashes if the border around the data plots are rendered using dashed lines.\n      Type: Number\n      Range: In pixels",
+    "body": "\"plotBorderHoverDashGap\": \"\""
+  },
+  "HoverGradientColor": {
+    "prefix": "hoverGradientColor",
+    "description": "Description: This attribute sets the gradient color of the data plot on hover.\n      Type: Color\n      Range: Hex Color Code",
+    "body": "\"hoverGradientColor\": \"\""
+  },
+  "HoverRatio": {
+    "prefix": "hoverRatio",
+    "description": "Description: This attribute sets the ratio of gradient colors when hovered.\n      Type: Number\n      Range: 0 - 100",
+    "body": "\"hoverRatio\": \"\""
+  },
+  "HoverAngle": {
+    "prefix": "hoverAngle",
+    "description": "Description: This attribute specifies the angle of the gradient color when hovered.\n      Type: Number\n      Range: 0 - 360",
+    "body": "\"hoverAngle\": \"\""
+  },
+  "BorderHoverDashed": {
+    "prefix": "borderHoverDashed",
+    "description": "Description: When a data plot is hovered, this attribute is used to specify whether a data plot border will be rendered as a dashed line. \n\n__Default value__: 0 (border rendered using straight lines)\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"borderHoverDashed\": \"${1|1,0|}\""
+  },
+  "BorderHoverDashLen": {
+    "prefix": "borderHoverDashLen",
+    "description": "Description: When a data plot is hovered, this attribute is used to set the length of each dash if the border around a data plot is rendered using dashed lines.\n      Type: Number\n      Range: In pixels",
+    "body": "\"borderHoverDashLen\": \"\""
+  },
+  "LabelDisplay": {
+    "prefix": "labelDisplay",
+    "description": "Description: Using this attribute, you can customize the alignment of data labels (x-axis labels). There are 5 options: AUTO, WRAP, STAGGER, ROTATE or NONE. By default, this attribute is set to AUTO mode which means that the alignment of the data labels is determined automatically depending on the size of the chart. WRAP wraps the label text if it is too long to fit in one line. ROTATE rotates the labels vertically. STAGGER divides the labels into multiple lines.\n      Type: String\n      Range: 'AUTO', 'WRAP', 'STAGGER', 'ROTATE', 'NONE'",
+    "body": "\"labelDisplay\": \"\""
+  },
+  "RotateLabels": {
+    "prefix": "rotateLabels",
+    "description": "Description: This attribute lets you set whether the data labels will show up as rotated labels on the chart.\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"rotateLabels\": \"${1|1,0|}\""
+  },
+  "SlantLabels": {
+    "prefix": "slantLabels",
+    "description": "Description: If you've opted to show rotated labels on chart, this attribute lets you set the configuration whether the labels will show as slanted labels or fully vertical ones.\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"slantLabels\": \"${1|1,0|}\""
+  },
+  "LabelStep": {
+    "prefix": "labelStep",
+    "description": "Description: By default, all the labels are displayed on the chart. However, if you've a set of streaming data (like name of months or days of week), you can opt to show every n-th label for better clarity. This attribute just lets you do so. When a value greater than 1 (n) is set to this attribute, the first label from left and every label at the n-th position from left will be displayed. e.g., a chart showing data for 12 months and set with `labelStep: 3` will show labels for January, April, July, and October. The rest of the labels will be skipped.\n      Type: Number\n      Range: 1 or above",
+    "body": "\"labelStep\": \"\""
+  },
+  "StaggerLines": {
+    "prefix": "staggerLines",
+    "description": "Description: If you've opted for STAGGER mode as `labelDisplay`, using this attribute you can control how many lines to stagger the label to. By default, all labels are displayed in a single line.\n      Type: Number\n      Range: 2 or above",
+    "body": "\"staggerLines\": \"\""
+  },
+  "ShowDivLineValues": {
+    "prefix": "showDivLineValues",
+    "description": "Description: Whether to show div line values. If not specified `showYAxisValues` attribute overrides this value.\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"showDivLineValues\": \"${1|1,0|}\""
+  },
+  "AdjustDiv": {
+    "prefix": "adjustDiv",
+    "description": "Description: FusionCharts XT automatically tries to adjust divisional lines and limit values based on the data provided. However, if you want to set your explicit lower and upper limit values and number of divisional lines, first set this attribute to false. That will disable automatic adjustment of divisional lines.\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"adjustDiv\": \"${1|1,0|}\""
+  },
   "MaxBarHeight": {
     "prefix": "maxBarHeight",
     "description": "Description: Sets the maximum allowed bar height.\n      Type: Number\n      Range: In Pixels",
     "body": "\"maxBarHeight\": \"\""
+  },
+  "XAxisName": {
+    "prefix": "xAxisName",
+    "description": "Description: X-axis title of the chart.\n      Type: String\n",
+    "body": "\"xAxisName\": \"\""
+  },
+  "YAxisName": {
+    "prefix": "yAxisName",
+    "description": "Description: Y-axis title of the chart.\n      Type: String\n",
+    "body": "\"yAxisName\": \"\""
+  },
+  "ShowYAxisValues": {
+    "prefix": "showYAxisValues",
+    "description": "Description: FusionCharts XT y-axis is divided into vertical sections using div (divisional) lines. Each div line assumes a value based on its position. Using this attribute you can set whether to show those div line (y-axis) values or not. This attribute shows or hides the y-axis divisional lines and limits. The values of `showLimits` and `showDivLineValues`, if specified explicitly, overrides the value of this attribute.\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"showYAxisValues\": \"${1|1,0|}\""
+  },
+  "YAxisValuesStep": {
+    "prefix": "yAxisValuesStep",
+    "description": "Description: By default, all div lines show their values. However, you can opt to display every x(th) div line value using this attribute.\n      Type: Number\n      Range: 1 or above",
+    "body": "\"yAxisValuesStep\": \"\""
+  },
+  "RotateYAxisName": {
+    "prefix": "rotateYAxisName",
+    "description": "Description: If you do not wish to rotate y-axis name, set this as 0. It specifically comes to use when you've the special characters (UTF-8) in your y-axis name that do not show up in rotated mode.\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"rotateYAxisName\": \"${1|1,0|}\""
+  },
+  "YAxisNameWidth": {
+    "prefix": "yAxisNameWidth",
+    "description": "Description: If you opt to not rotate y-axis name, you can choose a maximum width that will be applied to y-axis name.\n      Type: Number\n      Range: (In Pixels)",
+    "body": "\"yAxisNameWidth\": \"\""
+  },
+  "YAxisMinValue": {
+    "prefix": "yAxisMinValue",
+    "description": "Description: This attribute helps you explicitly set the lower limit of the chart. If you don't specify this value, it is automatically calculated by FusionCharts XT based on the data provided by you.\n      Type: Number\n      Range: Numeric Value",
+    "body": "\"yAxisMinValue\": \"\""
+  },
+  "YAxisMaxValue": {
+    "prefix": "yAxisMaxValue",
+    "description": "Description: This attribute helps you explicitly set the upper limit of the chart. If you don't specify this value, it is automatically calculated by FusionCharts XT based on the data provided by you.\n      Type: Number\n      Range: Numeric Value",
+    "body": "\"yAxisMaxValue\": \"\""
+  },
+  "ForceYAxisValueDecimals": {
+    "prefix": "forceYAxisValueDecimals",
+    "description": "Description: Whether to forcefully attach decimal places to all y-axis values. For example, If you limit the maximum number of decimal digits to 2, a number like 55.345 will be rounded to 55.34. This does not mean that all y-axis numbers will be displayed with a fixed number of decimal places. For instance 55 will not be displayed as 55.00 and 55.1 will not become 55.10. In order to have fixed number of decimal places attached to all y-axis numbers, set this attribute to 1.\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"forceYAxisValueDecimals\": \"${1|1,0|}\""
+  },
+  "YAxisValueDecimals": {
+    "prefix": "yAxisValueDecimals",
+    "description": "Description: If you've opted to not adjust div lines, you can specify the div line values decimal precision using this attribute.\n      Type: Number\n      Range: 0-10",
+    "body": "\"yAxisValueDecimals\": \"\""
+  },
+  "XAxisNameFontColor": {
+    "prefix": "xAxisNameFontColor",
+    "description": "Description: Sets the x-axis font color\n      Type: Color\n      Range: Hex Color Code",
+    "body": "\"xAxisNameFontColor\": \"\""
+  },
+  "XAxisNameFontSize": {
+    "prefix": "xAxisNameFontSize",
+    "description": "Description: Specifies the x-axis font size\n      Type: Number\n      Range: 6 - 72",
+    "body": "\"xAxisNameFontSize\": \"\""
+  },
+  "XAxisNameFontBold": {
+    "prefix": "xAxisNameFontBold",
+    "description": "Description: Whether x-axis font should be bold\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"xAxisNameFontBold\": \"${1|1,0|}\""
+  },
+  "XAxisNameFontItalic": {
+    "prefix": "xAxisNameFontItalic",
+    "description": "Description: Whether x-axis font should be italicized\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"xAxisNameFontItalic\": \"${1|1,0|}\""
+  },
+  "XAxisNameBgColor": {
+    "prefix": "xAxisNameBgColor",
+    "description": "Description: Sets the background color for x-axis text\n      Type: Color\n      Range: Hex Color Code",
+    "body": "\"xAxisNameBgColor\": \"\""
+  },
+  "XAxisNameBorderColor": {
+    "prefix": "xAxisNameBorderColor",
+    "description": "Description: Sets the border around the x-axis text\n      Type: Color\n      Range: Hex Color Code",
+    "body": "\"xAxisNameBorderColor\": \"\""
+  },
+  "XAxisNameAlpha": {
+    "prefix": "xAxisNameAlpha",
+    "description": "Description: Sets the x-axis alpha including font and background\n      Type: Number\n      Range: 0 - 100",
+    "body": "\"xAxisNameAlpha\": \"\""
+  },
+  "XAxisNameFontAlpha": {
+    "prefix": "xAxisNameFontAlpha",
+    "description": "Description: Sets the x-axis font alpha\n      Type: Number\n      Range: 0 - 100",
+    "body": "\"xAxisNameFontAlpha\": \"\""
+  },
+  "XAxisNameBgAlpha": {
+    "prefix": "xAxisNameBgAlpha",
+    "description": "Description: Sets the x-axis background alpha\n      Type: Number\n      Range: 0 - 100",
+    "body": "\"xAxisNameBgAlpha\": \"\""
+  },
+  "XAxisNameBorderAlpha": {
+    "prefix": "xAxisNameBorderAlpha",
+    "description": "Description: Sets the x-axis border alpha\n      Type: Number\n      Range: 0 - 100",
+    "body": "\"xAxisNameBorderAlpha\": \"\""
+  },
+  "XAxisNameBorderPadding": {
+    "prefix": "xAxisNameBorderPadding",
+    "description": "Description: Sets the x-axis border padding\n      Type: Number\n      Range: In Pixels",
+    "body": "\"xAxisNameBorderPadding\": \"\""
+  },
+  "XAxisNameBorderRadius": {
+    "prefix": "xAxisNameBorderRadius",
+    "description": "Description: Sets the x-axis border radius\n      Type: Number\n      Range: In Pixels",
+    "body": "\"xAxisNameBorderRadius\": \"\""
+  },
+  "XAxisNameBorderThickness": {
+    "prefix": "xAxisNameBorderThickness",
+    "description": "Description: Sets the x-axis border thickness\n      Type: Number\n      Range: In Pixels",
+    "body": "\"xAxisNameBorderThickness\": \"\""
+  },
+  "XAxisNameBorderDashed": {
+    "prefix": "xAxisNameBorderDashed",
+    "description": "Description: Whether the border around the x-axis name should be rendered using dashed lines. \n\n__Default value__: 0 (border rendered using straight lines)\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"xAxisNameBorderDashed\": \"${1|1,0|}\""
+  },
+  "XAxisNameBorderDashLen": {
+    "prefix": "xAxisNameBorderDashLen",
+    "description": "Description: Sets the length of each dash when the border around the x-axis name is rendered using dashed lines.\n      Type: Number\n      Range: In pixels",
+    "body": "\"xAxisNameBorderDashLen\": \"\""
+  },
+  "XAxisNameBorderDashGap": {
+    "prefix": "xAxisNameBorderDashGap",
+    "description": "Description: Sets the gap between consecutive dashes when the border around the x-axis name is rendered using dashed lines.\n      Type: Number\n      Range: In pixels",
+    "body": "\"xAxisNameBorderDashGap\": \"\""
+  },
+  "YAxisNameFont": {
+    "prefix": "yAxisNameFont",
+    "description": "Description: Sets the y-axis (primary / secondary) font family for the text\n      Type: String\n      Range: Font Name",
+    "body": "\"yAxisNameFont\": \"\""
+  },
+  "YAxisNameFontColor": {
+    "prefix": "yAxisNameFontColor",
+    "description": "Description: Sets the y-axis (primary / secondary) font color\n      Type: Color\n      Range: Hex Color Code",
+    "body": "\"yAxisNameFontColor\": \"\""
+  },
+  "YAxisNameFontSize": {
+    "prefix": "yAxisNameFontSize",
+    "description": "Description: Specifies the y-axis (primary / secondary) font size\n      Type: Number\n      Range: 6 - 72",
+    "body": "\"yAxisNameFontSize\": \"\""
+  },
+  "YAxisNameFontBold": {
+    "prefix": "yAxisNameFontBold",
+    "description": "Description: Whether y-axis (primary / secondary) font should be bold\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"yAxisNameFontBold\": \"${1|1,0|}\""
+  },
+  "YAxisNameFontItalic": {
+    "prefix": "yAxisNameFontItalic",
+    "description": "Description: Whether y-axis (primary / secondary) font should be italicized\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"yAxisNameFontItalic\": \"${1|1,0|}\""
+  },
+  "YAxisNameBgColor": {
+    "prefix": "yAxisNameBgColor",
+    "description": "Description: Sets the background color for y-axis (primary / secondary) text\n      Type: Color\n      Range: Hex Color Code",
+    "body": "\"yAxisNameBgColor\": \"\""
+  },
+  "YAxisNameBorderColor": {
+    "prefix": "yAxisNameBorderColor",
+    "description": "Description: Sets the border around the y-axis (primary / secondary) text\n      Type: Color\n      Range: Hex Color Code",
+    "body": "\"yAxisNameBorderColor\": \"\""
+  },
+  "YAxisNameAlpha": {
+    "prefix": "yAxisNameAlpha",
+    "description": "Description: Sets the y-axis (primary / secondary) alpha including font and background\n      Type: Number\n      Range: 0 - 100",
+    "body": "\"yAxisNameAlpha\": \"\""
+  },
+  "YAxisNameFontAlpha": {
+    "prefix": "yAxisNameFontAlpha",
+    "description": "Description: Sets the y-axis (primary / secondary) font alpha\n      Type: Number\n      Range: 0 - 100",
+    "body": "\"yAxisNameFontAlpha\": \"\""
+  },
+  "YAxisNameBgAlpha": {
+    "prefix": "yAxisNameBgAlpha",
+    "description": "Description: Sets the y-axis (primary / secondary) background alpha\n      Type: Number\n      Range: 0 - 100",
+    "body": "\"yAxisNameBgAlpha\": \"\""
+  },
+  "YAxisNameBorderAlpha": {
+    "prefix": "yAxisNameBorderAlpha",
+    "description": "Description: Sets the y-axis (primary / secondary) border alpha\n      Type: Number\n      Range: 0 - 100",
+    "body": "\"yAxisNameBorderAlpha\": \"\""
+  },
+  "YAxisNameBorderPadding": {
+    "prefix": "yAxisNameBorderPadding",
+    "description": "Description: Sets the y-axis (primary / secondary) border padding\n      Type: Number\n      Range: In Pixels",
+    "body": "\"yAxisNameBorderPadding\": \"\""
+  },
+  "YAxisNameBorderRadius": {
+    "prefix": "yAxisNameBorderRadius",
+    "description": "Description: Sets the y-axis (primary / secondary) border radius\n      Type: Number\n      Range: In Pixels",
+    "body": "\"yAxisNameBorderRadius\": \"\""
+  },
+  "YAxisNameBorderThickness": {
+    "prefix": "yAxisNameBorderThickness",
+    "description": "Description: Sets the y-axis (primary / secondary) border thickness\n      Type: Number\n      Range: In Pixels",
+    "body": "\"yAxisNameBorderThickness\": \"\""
+  },
+  "YAxisNameBorderDashed": {
+    "prefix": "yAxisNameBorderDashed",
+    "description": "Description: Whether the border around the y-axis name should be rendered using dashed lines. \n\n__Default value__: 0 (border rendered using straight lines)\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"yAxisNameBorderDashed\": \"${1|1,0|}\""
+  },
+  "YAxisNameBorderDashLen": {
+    "prefix": "yAxisNameBorderDashLen",
+    "description": "Description: Sets the length of each dash when the border around the y-axis name is rendered using dashed lines.\n      Type: Number\n      Range: In pixels",
+    "body": "\"yAxisNameBorderDashLen\": \"\""
+  },
+  "YAxisNameBorderDashGap": {
+    "prefix": "yAxisNameBorderDashGap",
+    "description": "Description: Sets the gap between two consecutive dashes when the border around the y-axis name is rendered using dashed lines.\n      Type: Number\n      Range: In pixels",
+    "body": "\"yAxisNameBorderDashGap\": \"\""
+  },
+  "CanvasBaseColor": {
+    "prefix": "canvasBaseColor",
+    "description": "Description: Helps you specify the color for canvas base.\n      Type: Color\n      Range: Hex Color Code",
+    "body": "\"canvasBaseColor\": \"\""
+  },
+  "ShowCanvasBg": {
+    "prefix": "showCanvasBg",
+    "description": "Description: Whether to show canvas background.\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"showCanvasBg\": \"${1|1,0|}\""
+  },
+  "ShowCanvasBase": {
+    "prefix": "showCanvasBase",
+    "description": "Description: Whether to show canvas base.\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"showCanvasBase\": \"${1|1,0|}\""
+  },
+  "CanvasBaseDepth": {
+    "prefix": "canvasBaseDepth",
+    "description": "Description: Height of canvas base (in pixels)\n      Type: Number\n      Range: In Pixels",
+    "body": "\"canvasBaseDepth\": \"\""
+  },
+  "CanvasBgDepth": {
+    "prefix": "canvasBgDepth",
+    "description": "Description: Depth of Canvas Background\n      Type: Number\n      Range: In Pixels",
+    "body": "\"canvasBgDepth\": \"\""
+  },
+  "OverlapColumns": {
+    "prefix": "overlapColumns",
+    "description": "Description: Whether to overlap columns over each other to give a richer 3D look. If there are too many columns on the chart, it will automatically overlap.\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"overlapColumns\": \"${1|1,0|}\""
+  },
+  "NumDivLines": {
+    "prefix": "numDivLines",
+    "description": "Description: Number of horizontal axis division lines that you want on the chart.\n      Type: Number\n      Range: Numeric value > 0",
+    "body": "\"numDivLines\": \"\""
+  },
+  "DivLineColor": {
+    "prefix": "divLineColor",
+    "description": "Description: Color for divisional lines.\n      Type: Color\n      Range: Hex Color Code",
+    "body": "\"divLineColor\": \"\""
+  },
+  "DivLineThickness": {
+    "prefix": "divLineThickness",
+    "description": "Description: Thickness of divisional lines.\n      Type: Number\n      Range: 1-5",
+    "body": "\"divLineThickness\": \"\""
+  },
+  "DivLineAlpha": {
+    "prefix": "divLineAlpha",
+    "description": "Description: Alpha of divisional lines.\n      Type: Number\n      Range: 0 - 100",
+    "body": "\"divLineAlpha\": \"\""
+  },
+  "DivLineDashed": {
+    "prefix": "divLineDashed",
+    "description": "Description: Whether the divisional lines should be rendered as dashed lines. \n\n__Default value__: 0 (divisional lines rendered using straight lines)\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"divLineDashed\": \"${1|1,0|}\""
+  },
+  "DivLineDashLen": {
+    "prefix": "divLineDashLen",
+    "description": "Description: Sets the length of each dash when divisional lines are rendered as dashed lines.\n      Type: Number\n      Range: In pixels",
+    "body": "\"divLineDashLen\": \"\""
+  },
+  "DivLineDashGap": {
+    "prefix": "divLineDashGap",
+    "description": "Description: Sets the gap between two consecutive dashes when divisional lines are rendered as dashed lines.\n      Type: Number\n      Range: In pixels",
+    "body": "\"divLineDashGap\": \"\""
+  },
+  "ZeroPlaneColor": {
+    "prefix": "zeroPlaneColor",
+    "description": "Description: Color for the Zero Plane. Zero Plane is the line/plane that appears at position 0 on the y-axis, when negative data is being shown on the chart.\n      Type: Color\n      Range: Hex Color Code",
+    "body": "\"zeroPlaneColor\": \"\""
+  },
+  "ZeroPlaneAlpha": {
+    "prefix": "zeroPlaneAlpha",
+    "description": "Description: Alpha of zero plane.\n      Type: Number\n      Range: 0 - 100",
+    "body": "\"zeroPlaneAlpha\": \"\""
+  },
+  "ZeroPlaneShowBorder": {
+    "prefix": "zeroPlaneShowBorder",
+    "description": "Description: Whether to show border of zero plane.\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"zeroPlaneShowBorder\": \"${1|1,0|}\""
+  },
+  "ZeroPlaneBorderColor": {
+    "prefix": "zeroPlaneBorderColor",
+    "description": "Description: Sets the border color of zero plane.\n      Type: Color\n      Range: Hex Color Code",
+    "body": "\"zeroPlaneBorderColor\": \"\""
+  },
+  "ShowZeroPlaneValue": {
+    "prefix": "showZeroPlaneValue",
+    "description": "Description: Allows you to show or hide the value on which the zero plane exists on the y-axis. By default, the value is displayed.\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"showZeroPlaneValue\": \"${1|1,0|}\""
   },
   "BarHoverColor": {
     "prefix": "barHoverColor",
@@ -2263,6 +2713,136 @@
     "prefix": "barHoverAlpha",
     "description": "Description: This attribute specifies the transparency of the bar when you hover.\n      Type: Number\n      Range: 1 - 100",
     "body": "\"barHoverAlpha\": \"\""
+  },
+  "XAxisNamePadding": {
+    "prefix": "xAxisNamePadding",
+    "description": "Description: Using this, you can set the distance between the top end of x-axis title and the bottom end of data labels (or canvas, if data labels are not to be shown).\n      Type: Number\n      Range: In Pixels",
+    "body": "\"xAxisNamePadding\": \"\""
+  },
+  "YAxisNamePadding": {
+    "prefix": "yAxisNamePadding",
+    "description": "Description: Using this, you can set the distance between the right end of y-axis title and the start of y-axis values (or canvas, if the y-axis values are not to be shown).\n      Type: Number\n      Range: In Pixels",
+    "body": "\"yAxisNamePadding\": \"\""
+  },
+  "YAxisValuesPadding": {
+    "prefix": "yAxisValuesPadding",
+    "description": "Description: This attribute helps you set the horizontal space between the canvas left edge and the y-axis values or trend line values (on left/right side). This is particularly useful, when you want more space between your canvas and y-axis values.\n      Type: Number\n      Range: In Pixels",
+    "body": "\"yAxisValuesPadding\": \"\""
+  },
+  "LabelPadding": {
+    "prefix": "labelPadding",
+    "description": "Description: This attribute sets the vertical space between the labels and canvas bottom edge. If you want more space between the canvas and the x-axis labels, you can use this attribute to control it.\n      Type: Number\n      Range: In Pixels",
+    "body": "\"labelPadding\": \"\""
+  },
+  "VLine": {
+    "prefix": "vLine",
+    "description": "Description: Set this attribute to __true__ to render a vertical data separator line.\n      Type: String\n",
+    "body": "\"vLine\": \"\""
+  },
+  "ShowLabelBorder": {
+    "prefix": "showLabelBorder",
+    "description": "Description: Whether to show a border around the vLine label.\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"showLabelBorder\": \"${1|1,0|}\""
+  },
+  "LinePosition": {
+    "prefix": "linePosition",
+    "description": "Description: Helps configure the position of vertical line i.e., if a vLine is to be plotted between 2 points Jan and Feb, user can set any position between 0 and 1 to indicate the relative position of vLine between these two points (0 means Jan and 1 means Feb). By default, it’s 0.5 to show in between the points.\n      Type: Number\n      Range: 0-1",
+    "body": "\"linePosition\": \"\""
+  },
+  "LabelPosition": {
+    "prefix": "labelPosition",
+    "description": "Description: Helps configure the position of the vLine label by setting a relative position between 0 and 1. In vertical charts, 0 means top of canvas and 1 means bottom. In horizontal charts, 0 means left of canvas and 1 means right.\n      Type: Number\n      Range: 0-1",
+    "body": "\"labelPosition\": \"\""
+  },
+  "LabelHAlign": {
+    "prefix": "labelHAlign",
+    "description": "Description: Horizontal anchor point for the alignment of vLine label.\n      Type: String\n      Range: left, center, right",
+    "body": "\"labelHAlign\": \"\""
+  },
+  "LabelVAlign": {
+    "prefix": "labelVAlign",
+    "description": "Description: Vertical anchor point for the alignment of vLine label.\n      Type: String\n      Range: top, middle, bottom",
+    "body": "\"labelVAlign\": \"\""
+  },
+  "ValueOnRight": {
+    "prefix": "valueOnRight",
+    "description": "Description: Whether to show the trend line value on left side or right side of chart. This is particularly useful when the trend line display values on the chart are colliding with divisional lines values on the chart.\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"valueOnRight\": \"${1|1,0|}\""
+  },
+  "TrendValueFont": {
+    "prefix": "trendValueFont",
+    "description": "Description: Sets the font family for the trend-line display value.\n      Type: String\n      Range: Font Name",
+    "body": "\"trendValueFont\": \"\""
+  },
+  "TrendValueFontSize": {
+    "prefix": "trendValueFontSize",
+    "description": "Description: Sets the font size for the trend-line display value.\n      Type: Number\n      Range:  ",
+    "body": "\"trendValueFontSize\": \"\""
+  },
+  "TrendValueFontBold": {
+    "prefix": "trendValueFontBold",
+    "description": "Description: Sets whether the trend-line display value will be bold formatted. \n\nDefault value: 0 (not bold formatted)\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"trendValueFontBold\": \"${1|1,0|}\""
+  },
+  "TrendValueFontItalic": {
+    "prefix": "trendValueFontItalic",
+    "description": "Description: Sets whether the trend-line display value will be italicized. \n\nDefault value: 0 (not italicized)\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"trendValueFontItalic\": \"${1|1,0|}\""
+  },
+  "TrendValueBgColor": {
+    "prefix": "trendValueBgColor",
+    "description": "Description: Sets the background color for the trend-line display value.\n      Type: Color\n      Range: Hex Color Code",
+    "body": "\"trendValueBgColor\": \"\""
+  },
+  "TrendValueBorderColor": {
+    "prefix": "trendValueBorderColor",
+    "description": "Description: Sets the border color for the trend-line display value.\n      Type: Color\n      Range: Hex Color Code",
+    "body": "\"trendValueBorderColor\": \"\""
+  },
+  "TrendValueAlpha": {
+    "prefix": "trendValueAlpha",
+    "description": "Description: Sets the transparency for the trend-line display value. \n\nDefault value: 100\n      Type: Number\n      Range: 0 - 100",
+    "body": "\"trendValueAlpha\": \"\""
+  },
+  "TrendValueBgAlpha": {
+    "prefix": "trendValueBgAlpha",
+    "description": "Description: Sets the transparency for the background of the trend-line display value. \n\nDefault value: 100\n      Type: Number\n      Range: 0 - 100",
+    "body": "\"trendValueBgAlpha\": \"\""
+  },
+  "TrendValueBorderAlpha": {
+    "prefix": "trendValueBorderAlpha",
+    "description": "Description: Sets the transparency for the border around the trend-line display value. \n\nDefault value: 100\n      Type: Number\n      Range: 0 - 100",
+    "body": "\"trendValueBorderAlpha\": \"\""
+  },
+  "TrendValueBorderPadding": {
+    "prefix": "trendValueBorderPadding",
+    "description": "Description: Sets padding for the border around the trend-line display value. \n      Type: Number\n      Range: In pixels",
+    "body": "\"trendValueBorderPadding\": \"\""
+  },
+  "TrendValueBorderRadius": {
+    "prefix": "trendValueBorderRadius",
+    "description": "Description: Sets the radius for the border around the trend-line display value. \n      Type: Number\n      Range: In pixels",
+    "body": "\"trendValueBorderRadius\": \"\""
+  },
+  "TrendValueBorderThickness": {
+    "prefix": "trendValueBorderThickness",
+    "description": "Description: Sets the thickness for the border around the trend-line display value. \n      Type: Number\n      Range: In pixels",
+    "body": "\"trendValueBorderThickness\": \"\""
+  },
+  "TrendValueBorderDashed": {
+    "prefix": "trendValueBorderDashed",
+    "description": "Description: Whether the border around the trend-line display value should be rendered as dashed lines. \n\n__Default value__: 0 (border rendered using straight lines)\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"trendValueBorderDashed\": \"${1|1,0|}\""
+  },
+  "TrendValueBorderDashLen": {
+    "prefix": "trendValueBorderDashLen",
+    "description": "Description: Sets the length of each dash when the border around the trend-line display value is rendered as dashed lines.\n      Type: Number\n      Range: In pixels",
+    "body": "\"trendValueBorderDashLen\": \"\""
+  },
+  "TrendValueBorderDashGap": {
+    "prefix": "trendValueBorderDashGap",
+    "description": "Description: Sets the gap between two consecutive dashes when the border around the trend-line display value is rendered as dashed lines.\n      Type: Number\n      Range: In pixels",
+    "body": "\"trendValueBorderDashGap\": \"\""
   },
   "ShowMinValues": {
     "prefix": "showMinValues",
@@ -2744,6 +3324,11 @@
     "description": "Description: This attribute if set to _0_, hides the x-axis of the chart. \n\n__Default value__: 1\n      Type: Boolean\n      Range: 0/1",
     "body": "\"showxaxisline\": \"${1|1,0|}\""
   },
+  "ReverseXaxis": {
+    "prefix": "reverseXaxis",
+    "description": "Description: You can reverse the x-axis by setting this attribute to `1`. The x-axis values will appear in decreasing order from left to right. \n\n Default value: __0__\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"reverseXaxis\": \"${1|1,0|}\""
+  },
   "BubbleHoverColor": {
     "prefix": "bubbleHoverColor",
     "description": "Description: This attribute specifies the hover color for the bubbles.\n      Type: Color\n      Range: Hex Color Code",
@@ -3114,11 +3699,6 @@
     "description": "Description: Height of the volume chart in percent (with respect to total chart). By default, it's set to 40%.\n      Type: Number\n      Range: 20%-80%",
     "body": "\"volumeHeightPercent\": \"\""
   },
-  "PYAxisName": {
-    "prefix": "pYAxisName",
-    "description": "Description: The y-axis name for the price chart.\n      Type: String\n",
-    "body": "\"pYAxisName\": \"\""
-  },
   "VYAxisName": {
     "prefix": "vYAxisName",
     "description": "Description: The y-axis name for the volume chart.\n      Type: String\n",
@@ -3133,16 +3713,6 @@
     "prefix": "xAxisMaxValue",
     "description": "Description: The candlestick chart has both x and y axis as numeric. This attribute lets you explicitly set the x-axis upper limit. If you do not specify this value, the chart will automatically calculate the best value for you.\n      Type: Number\n      Range: Numeric Value",
     "body": "\"xAxisMaxValue\": \"\""
-  },
-  "PYAxisMaxValue": {
-    "prefix": "pYAxisMaxValue",
-    "description": "Description: This attribute helps you explicitly set the upper limit of the price chart. If you don't specify this value, it is automatically calculated by the chart based on the data provided by you.\n      Type: Number\n",
-    "body": "\"pYAxisMaxValue\": \"\""
-  },
-  "PYAxisMinValue": {
-    "prefix": "pYAxisMinValue",
-    "description": "Description: This attribute helps you explicitly set the lower limit of the price chart. If you don't specify this value, it is automatically calculated by the chart based on the data provided by you.\n      Type: Number\n",
-    "body": "\"pYAxisMinValue\": \"\""
   },
   "VYAxisMinValue": {
     "prefix": "vYAxisMinValue",
@@ -3163,91 +3733,6 @@
     "prefix": "vYAxisValueDecimals",
     "description": "Description: If you have opted to not adjust div lines of the volume chart, you can specify the div line values decimal precision using this attribute.\n      Type: Number\n      Range: 0-10",
     "body": "\"vYAxisValueDecimals\": \"\""
-  },
-  "PYAxisNameFont": {
-    "prefix": "pYAxisNameFont",
-    "description": "Description: Sets the primary y-axis font family for the text, in case of a dual-y axis chart\n      Type: String\n      Range: Font Name",
-    "body": "\"pYAxisNameFont\": \"\""
-  },
-  "PYAxisNameFontColor": {
-    "prefix": "pYAxisNameFontColor",
-    "description": "Description: Sets the primary y-axis font color\n      Type: Color\n      Range: Hex Color Code",
-    "body": "\"pYAxisNameFontColor\": \"\""
-  },
-  "PYAxisNameFontSize": {
-    "prefix": "pYAxisNameFontSize",
-    "description": "Description: Specifies the primary y-axis font size\n      Type: Number\n      Range: 6 - 72",
-    "body": "\"pYAxisNameFontSize\": \"\""
-  },
-  "PYAxisNameFontBold": {
-    "prefix": "pYAxisNameFontBold",
-    "description": "Description: Whether primary y-axis font should be bold\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"pYAxisNameFontBold\": \"${1|1,0|}\""
-  },
-  "PYAxisNameFontItalic": {
-    "prefix": "pYAxisNameFontItalic",
-    "description": "Description: Whether primary y-axis font should be italicized\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"pYAxisNameFontItalic\": \"${1|1,0|}\""
-  },
-  "PYAxisNameBgColor": {
-    "prefix": "pYAxisNameBgColor",
-    "description": "Description: Sets the background color for primary y-axis text\n      Type: Color\n      Range: Hex Color Code",
-    "body": "\"pYAxisNameBgColor\": \"\""
-  },
-  "PYAxisNameBorderColor": {
-    "prefix": "pYAxisNameBorderColor",
-    "description": "Description: Sets the border around the primary y-axis text\n      Type: Color\n      Range: Hex Color Code",
-    "body": "\"pYAxisNameBorderColor\": \"\""
-  },
-  "PYAxisNameAlpha": {
-    "prefix": "pYAxisNameAlpha",
-    "description": "Description: Sets the primary y-axis alpha including font and background\n      Type: Number\n      Range: 0 - 100",
-    "body": "\"pYAxisNameAlpha\": \"\""
-  },
-  "PYAxisNameFontAlpha": {
-    "prefix": "pYAxisNameFontAlpha",
-    "description": "Description: Sets the primary y-axis font alpha\n      Type: Number\n      Range: 0 - 100",
-    "body": "\"pYAxisNameFontAlpha\": \"\""
-  },
-  "PYAxisNameBgAlpha": {
-    "prefix": "pYAxisNameBgAlpha",
-    "description": "Description: Sets the primary y-axis background alpha\n      Type: Number\n      Range: 0 - 100",
-    "body": "\"pYAxisNameBgAlpha\": \"\""
-  },
-  "PYAxisNameBorderAlpha": {
-    "prefix": "pYAxisNameBorderAlpha",
-    "description": "Description: Sets the primary y-axis border alpha\n      Type: Number\n      Range: 0 - 100",
-    "body": "\"pYAxisNameBorderAlpha\": \"\""
-  },
-  "PYAxisNameBorderPadding": {
-    "prefix": "pYAxisNameBorderPadding",
-    "description": "Description: Sets the primary y-axis border padding\n      Type: Number\n      Range: In Pixels",
-    "body": "\"pYAxisNameBorderPadding\": \"\""
-  },
-  "PYAxisNameBorderRadius": {
-    "prefix": "pYAxisNameBorderRadius",
-    "description": "Description: Sets the primary y-axis border radius\n      Type: Number\n      Range: In Pixels",
-    "body": "\"pYAxisNameBorderRadius\": \"\""
-  },
-  "PYAxisNameBorderThickness": {
-    "prefix": "pYAxisNameBorderThickness",
-    "description": "Description: Sets the primary y-axis border thickness\n      Type: Number\n      Range: In Pixels",
-    "body": "\"pYAxisNameBorderThickness\": \"\""
-  },
-  "PYAxisNameBorderDashed": {
-    "prefix": "pYAxisNameBorderDashed",
-    "description": "Description: Whether the border around the primary y-axis name should be rendered using dashed lines. \n\n__Default value__: 0 (border rendered using straight lines)\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"pYAxisNameBorderDashed\": \"${1|1,0|}\""
-  },
-  "PYAxisNameBorderDashLen": {
-    "prefix": "pYAxisNameBorderDashLen",
-    "description": "Description: Sets the length of each dash when the border around the primary y-axis name is rendered using dashed lines.\n      Type: Number\n      Range: In Pixels",
-    "body": "\"pYAxisNameBorderDashLen\": \"\""
-  },
-  "PYAxisNameBorderDashGap": {
-    "prefix": "pYAxisNameBorderDashGap",
-    "description": "Description: Sets the gap between two consecutive dashes when the border around the primary y-axis name is rendered using dashed lines.\n      Type: Number\n      Range: In Pixels",
-    "body": "\"pYAxisNameBorderDashGap\": \"\""
   },
   "VYAxisNameFont": {
     "prefix": "vYAxisNameFont",
@@ -3499,11 +3984,6 @@
     "description": "Description: Lets you set the thickness for category lines.\n      Type: Number\n      Range: In Pixels",
     "body": "\"verticalLineThickness\": \"\""
   },
-  "LineDashed": {
-    "prefix": "lineDashed",
-    "description": "Description: Whether the vertical lines should be rendered as dashed lines. \n\n__Default value__: 0 (vertical lines using straight lines)\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"lineDashed\": \"${1|1,0|}\""
-  },
   "ShowVerticalLine": {
     "prefix": "showVerticalLine",
     "description": "Description: Whether the vertical line should be shown for this category.\n      Type: Boolean\n      Range: 0/1",
@@ -3589,105 +4069,15 @@
     "description": "Description: Whether to include the name of this trend set in legend.\n      Type: Boolean\n      Range: 0/1",
     "body": "\"includeinlegend\": \"${1|1,0|}\""
   },
-  "PlotBinSize": {
-    "prefix": "plotBinSize",
-    "description": "Description: This attribute is used to skip the data plot without any change in visualization. When set to `1`, minimum one data plot will be rendered within the width of one pixel. \n\n Example, if `plotBinSize: 1`, minimum one column plot will be rendered within the width of one pixel. For line and area charts, minimum of two anchors connecting one single line will be drawn. If `plotBinSize: 0.5`, minimum two column plot will be rendered within the width of one pixel. Data skipping can be disabled by setting this attribute to `0`. \n\n Default value: __0.5__\n      Type: Number\n      Range: In Pixels",
-    "body": "\"plotBinSize\": \"\""
-  },
-  "LabelBinSize": {
-    "prefix": "labelBinSize",
-    "description": "Description: This attribute is used to skip the labels of the data plots. When set to `1`, minimum one label will be displayed within the width of one pixel. To disable this label skipping, set this attribute to `0`. \n\nDefault value: __1__\n      Type: Number\n      Range: In Pixels",
-    "body": "\"labelBinSize\": \"\""
+  "RenderAs": {
+    "prefix": "renderAs",
+    "description": "Description: This attribute defines what the particular dataset will be plotted as. Valid values are COLUMN or LINE.\n      Type: String\n      Range: COLUMN or LINE",
+    "body": "\"renderAs\": \"\""
   },
   "XAxisLineThickness": {
     "prefix": "xAxisLineThickness",
     "description": "Description: Sets the thickness of the x-axis line of the chart.\n      Type: Number\n      Range: In Pixels",
     "body": "\"xAxisLineThickness\": \"\""
-  },
-  "PlotGradientColor": {
-    "prefix": "plotGradientColor",
-    "description": "Description: You can globally add a gradient color to the entire plot of chart by specifying the second color as this attribute. For example, if you've specified individual colors for your columns and now you want a gradient that ends in white. You need to specify FFFFFF (white) as this color and the chart will now draw plots as gradient.\n      Type: Color\n      Range: Hex Color Code",
-    "body": "\"plotGradientColor\": \"\""
-  },
-  "UsePlotGradientColor": {
-    "prefix": "usePlotGradientColor",
-    "description": "Description: Gradient color is a color added globally to the entire plot of chart by specifying the second color in an attribute. This attribute sets the gradient color to _true_. \n\n__Default value__: 0\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"usePlotGradientColor\": \"${1|1,0|}\""
-  },
-  "DrawCrossLine": {
-    "prefix": "drawCrossLine",
-    "description": "Description: This attribute sets a cross line (vertical line/area), when you hover a data plot. \n\nDefault value: __0__\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"drawCrossLine\": \"${1|1,0|}\""
-  },
-  "CrossLineAnimation": {
-    "prefix": "crossLineAnimation",
-    "description": "Description: This attributes enables the animation for the cross line. \n\nDefault value: __0__\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"crossLineAnimation\": \"${1|1,0|}\""
-  },
-  "CrossLineAnimationDuration": {
-    "prefix": "crossLineAnimationDuration",
-    "description": "Description: This attribute sets the animation duration of the cross line. \n\nDefault value: __0.09 seconds__\n      Type: Number\n      Range: In seconds",
-    "body": "\"crossLineAnimationDuration\": \"\""
-  },
-  "PlotColorinTooltip": {
-    "prefix": "plotColorinTooltip",
-    "description": "Description: This attribute displays the color of each plot with their labels in tooltip. \n\nDefault value: __0__\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"plotColorinTooltip\": \"${1|1,0|}\""
-  },
-  "PlotHoverGradientColor": {
-    "prefix": "plotHoverGradientColor",
-    "description": "Description: Specifies the gradient color for the data plots when hovered. For example, if you've specified individual colors and now you want hover color that ends in white, You need to specify it.\n      Type: Color\n      Range: Hex Color Code",
-    "body": "\"plotHoverGradientColor\": \"\""
-  },
-  "PlotHoverRatio": {
-    "prefix": "plotHoverRatio",
-    "description": "Description: Helps you specify the ratio of gradient colors when hovered.\n      Type: Number\n",
-    "body": "\"plotHoverRatio\": \"\""
-  },
-  "PlotHoverAngle": {
-    "prefix": "plotHoverAngle",
-    "description": "Description: This attribute specifies the angle of the gradient color when hovered.\n      Type: Number\n",
-    "body": "\"plotHoverAngle\": \"\""
-  },
-  "PlotBorderHoverDashed": {
-    "prefix": "plotBorderHoverDashed",
-    "description": "Description: When a data plot is hovered, this attribute is used to specify whether the data plot border will be rendered as a dashed line. \n\n__Default value__: 0 (border rendered using straight lines)\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"plotBorderHoverDashed\": \"${1|1,0|}\""
-  },
-  "PlotBorderHoverDashLen": {
-    "prefix": "plotBorderHoverDashLen",
-    "description": "Description: When a data plot is hovered, this attribute is used to set the length of each dash if the border around the data plots are rendered using dashed lines.\n      Type: Number\n      Range: In pixels",
-    "body": "\"plotBorderHoverDashLen\": \"\""
-  },
-  "PlotBorderHoverDashGap": {
-    "prefix": "plotBorderHoverDashGap",
-    "description": "Description: When a data plot is hovered, this attribute is used to set the gap between consecutive dashes if the border around the data plots are rendered using dashed lines.\n      Type: Number\n      Range: In pixels",
-    "body": "\"plotBorderHoverDashGap\": \"\""
-  },
-  "HoverGradientColor": {
-    "prefix": "hoverGradientColor",
-    "description": "Description: This attribute sets the gradient color of the data plot on hover.\n      Type: Color\n      Range: Hex Color Code",
-    "body": "\"hoverGradientColor\": \"\""
-  },
-  "HoverRatio": {
-    "prefix": "hoverRatio",
-    "description": "Description: This attribute sets the ratio of gradient colors when hovered.\n      Type: Number\n      Range: 0 - 100",
-    "body": "\"hoverRatio\": \"\""
-  },
-  "HoverAngle": {
-    "prefix": "hoverAngle",
-    "description": "Description: This attribute specifies the angle of the gradient color when hovered.\n      Type: Number\n      Range: 0 - 360",
-    "body": "\"hoverAngle\": \"\""
-  },
-  "BorderHoverDashed": {
-    "prefix": "borderHoverDashed",
-    "description": "Description: When a data plot is hovered, this attribute is used to specify whether a data plot border will be rendered as a dashed line. \n\n__Default value__: 0 (border rendered using straight lines)\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"borderHoverDashed\": \"${1|1,0|}\""
-  },
-  "BorderHoverDashLen": {
-    "prefix": "borderHoverDashLen",
-    "description": "Description: When a data plot is hovered, this attribute is used to set the length of each dash if the border around a data plot is rendered using dashed lines.\n      Type: Number\n      Range: In pixels",
-    "body": "\"borderHoverDashLen\": \"\""
   },
   "BorderHoverDashGap": {
     "prefix": "borderHoverDashGap",
@@ -3699,485 +4089,15 @@
     "description": "Description: This attribute can be used to set the maximum height for the x-axis labels (data labels) excluding the x-axis title. If any label goes beyond this height, the label will be truncated. In stagger mode, the number of stagger lines will be reduced if they exceed this value.\n      Type: Number\n      Range: In Pixels",
     "body": "\"maxLabelHeight\": \"\""
   },
-  "LabelDisplay": {
-    "prefix": "labelDisplay",
-    "description": "Description: Using this attribute, you can customize the alignment of data labels (x-axis labels). There are 5 options: AUTO, WRAP, STAGGER, ROTATE or NONE. By default, this attribute is set to AUTO mode which means that the alignment of the data labels is determined automatically depending on the size of the chart. WRAP wraps the label text if it is too long to fit in one line. ROTATE rotates the labels vertically. STAGGER divides the labels into multiple lines.\n      Type: String\n      Range: 'AUTO', 'WRAP', 'STAGGER', 'ROTATE', 'NONE'",
-    "body": "\"labelDisplay\": \"\""
-  },
-  "RotateLabels": {
-    "prefix": "rotateLabels",
-    "description": "Description: This attribute lets you set whether the data labels will show up as rotated labels on the chart.\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"rotateLabels\": \"${1|1,0|}\""
-  },
-  "SlantLabels": {
-    "prefix": "slantLabels",
-    "description": "Description: If you've opted to show rotated labels on chart, this attribute lets you set the configuration whether the labels will show as slanted labels or fully vertical ones.\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"slantLabels\": \"${1|1,0|}\""
-  },
-  "LabelStep": {
-    "prefix": "labelStep",
-    "description": "Description: By default, all the labels are displayed on the chart. However, if you've a set of streaming data (like name of months or days of week), you can opt to show every n-th label for better clarity. This attribute just lets you do so. When a value greater than 1 (n) is set to this attribute, the first label from left and every label at the n-th position from left will be displayed. e.g., a chart showing data for 12 months and set with `labelStep: 3` will show labels for January, April, July, and October. The rest of the labels will be skipped.\n      Type: Number\n      Range: 1 or above",
-    "body": "\"labelStep\": \"\""
-  },
-  "StaggerLines": {
-    "prefix": "staggerLines",
-    "description": "Description: If you've opted for STAGGER mode as `labelDisplay`, using this attribute you can control how many lines to stagger the label to. By default, all labels are displayed in a single line.\n      Type: Number\n      Range: 2 or above",
-    "body": "\"staggerLines\": \"\""
-  },
   "RotateValues": {
     "prefix": "rotateValues",
     "description": "Description: If you've opted to show data values, you can rotate them using this attribute.\n      Type: Boolean\n      Range: 0/1",
     "body": "\"rotateValues\": \"${1|1,0|}\""
   },
-  "ShowDivLineValues": {
-    "prefix": "showDivLineValues",
-    "description": "Description: Whether to show div line values. If not specified `showYAxisValues` attribute overrides this value.\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"showDivLineValues\": \"${1|1,0|}\""
-  },
-  "AdjustDiv": {
-    "prefix": "adjustDiv",
-    "description": "Description: FusionCharts XT automatically tries to adjust divisional lines and limit values based on the data provided. However, if you want to set your explicit lower and upper limit values and number of divisional lines, first set this attribute to false. That will disable automatic adjustment of divisional lines.\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"adjustDiv\": \"${1|1,0|}\""
-  },
-  "XAxisName": {
-    "prefix": "xAxisName",
-    "description": "Description: X-axis title of the chart.\n      Type: String\n",
-    "body": "\"xAxisName\": \"\""
-  },
-  "YAxisName": {
-    "prefix": "yAxisName",
-    "description": "Description: Y-axis title of the chart.\n      Type: String\n",
-    "body": "\"yAxisName\": \"\""
-  },
-  "ShowYAxisValues": {
-    "prefix": "showYAxisValues",
-    "description": "Description: FusionCharts XT y-axis is divided into vertical sections using div (divisional) lines. Each div line assumes a value based on its position. Using this attribute you can set whether to show those div line (y-axis) values or not. This attribute shows or hides the y-axis divisional lines and limits. The values of `showLimits` and `showDivLineValues`, if specified explicitly, overrides the value of this attribute.\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"showYAxisValues\": \"${1|1,0|}\""
-  },
-  "YAxisValuesStep": {
-    "prefix": "yAxisValuesStep",
-    "description": "Description: By default, all div lines show their values. However, you can opt to display every x(th) div line value using this attribute.\n      Type: Number\n      Range: 1 or above",
-    "body": "\"yAxisValuesStep\": \"\""
-  },
-  "RotateYAxisName": {
-    "prefix": "rotateYAxisName",
-    "description": "Description: If you do not wish to rotate y-axis name, set this as 0. It specifically comes to use when you've the special characters (UTF-8) in your y-axis name that do not show up in rotated mode.\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"rotateYAxisName\": \"${1|1,0|}\""
-  },
-  "YAxisNameWidth": {
-    "prefix": "yAxisNameWidth",
-    "description": "Description: If you opt to not rotate y-axis name, you can choose a maximum width that will be applied to y-axis name.\n      Type: Number\n      Range: (In Pixels)",
-    "body": "\"yAxisNameWidth\": \"\""
-  },
-  "YAxisMinValue": {
-    "prefix": "yAxisMinValue",
-    "description": "Description: This attribute helps you explicitly set the lower limit of the chart. If you don't specify this value, it is automatically calculated by FusionCharts XT based on the data provided by you.\n      Type: Number\n      Range: Numeric Value",
-    "body": "\"yAxisMinValue\": \"\""
-  },
-  "YAxisMaxValue": {
-    "prefix": "yAxisMaxValue",
-    "description": "Description: This attribute helps you explicitly set the upper limit of the chart. If you don't specify this value, it is automatically calculated by FusionCharts XT based on the data provided by you.\n      Type: Number\n      Range: Numeric Value",
-    "body": "\"yAxisMaxValue\": \"\""
-  },
-  "ForceYAxisValueDecimals": {
-    "prefix": "forceYAxisValueDecimals",
-    "description": "Description: Whether to forcefully attach decimal places to all y-axis values. For example, If you limit the maximum number of decimal digits to 2, a number like 55.345 will be rounded to 55.34. This does not mean that all y-axis numbers will be displayed with a fixed number of decimal places. For instance 55 will not be displayed as 55.00 and 55.1 will not become 55.10. In order to have fixed number of decimal places attached to all y-axis numbers, set this attribute to 1.\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"forceYAxisValueDecimals\": \"${1|1,0|}\""
-  },
-  "YAxisValueDecimals": {
-    "prefix": "yAxisValueDecimals",
-    "description": "Description: If you've opted to not adjust div lines, you can specify the div line values decimal precision using this attribute.\n      Type: Number\n      Range: 0-10",
-    "body": "\"yAxisValueDecimals\": \"\""
-  },
-  "XAxisNameFontColor": {
-    "prefix": "xAxisNameFontColor",
-    "description": "Description: Sets the x-axis font color\n      Type: Color\n      Range: Hex Color Code",
-    "body": "\"xAxisNameFontColor\": \"\""
-  },
-  "XAxisNameFontSize": {
-    "prefix": "xAxisNameFontSize",
-    "description": "Description: Specifies the x-axis font size\n      Type: Number\n      Range: 6 - 72",
-    "body": "\"xAxisNameFontSize\": \"\""
-  },
-  "XAxisNameFontBold": {
-    "prefix": "xAxisNameFontBold",
-    "description": "Description: Whether x-axis font should be bold\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"xAxisNameFontBold\": \"${1|1,0|}\""
-  },
-  "XAxisNameFontItalic": {
-    "prefix": "xAxisNameFontItalic",
-    "description": "Description: Whether x-axis font should be italicized\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"xAxisNameFontItalic\": \"${1|1,0|}\""
-  },
-  "XAxisNameBgColor": {
-    "prefix": "xAxisNameBgColor",
-    "description": "Description: Sets the background color for x-axis text\n      Type: Color\n      Range: Hex Color Code",
-    "body": "\"xAxisNameBgColor\": \"\""
-  },
-  "XAxisNameBorderColor": {
-    "prefix": "xAxisNameBorderColor",
-    "description": "Description: Sets the border around the x-axis text\n      Type: Color\n      Range: Hex Color Code",
-    "body": "\"xAxisNameBorderColor\": \"\""
-  },
-  "XAxisNameAlpha": {
-    "prefix": "xAxisNameAlpha",
-    "description": "Description: Sets the x-axis alpha including font and background\n      Type: Number\n      Range: 0 - 100",
-    "body": "\"xAxisNameAlpha\": \"\""
-  },
-  "XAxisNameFontAlpha": {
-    "prefix": "xAxisNameFontAlpha",
-    "description": "Description: Sets the x-axis font alpha\n      Type: Number\n      Range: 0 - 100",
-    "body": "\"xAxisNameFontAlpha\": \"\""
-  },
-  "XAxisNameBgAlpha": {
-    "prefix": "xAxisNameBgAlpha",
-    "description": "Description: Sets the x-axis background alpha\n      Type: Number\n      Range: 0 - 100",
-    "body": "\"xAxisNameBgAlpha\": \"\""
-  },
-  "XAxisNameBorderAlpha": {
-    "prefix": "xAxisNameBorderAlpha",
-    "description": "Description: Sets the x-axis border alpha\n      Type: Number\n      Range: 0 - 100",
-    "body": "\"xAxisNameBorderAlpha\": \"\""
-  },
-  "XAxisNameBorderPadding": {
-    "prefix": "xAxisNameBorderPadding",
-    "description": "Description: Sets the x-axis border padding\n      Type: Number\n      Range: In Pixels",
-    "body": "\"xAxisNameBorderPadding\": \"\""
-  },
-  "XAxisNameBorderRadius": {
-    "prefix": "xAxisNameBorderRadius",
-    "description": "Description: Sets the x-axis border radius\n      Type: Number\n      Range: In Pixels",
-    "body": "\"xAxisNameBorderRadius\": \"\""
-  },
-  "XAxisNameBorderThickness": {
-    "prefix": "xAxisNameBorderThickness",
-    "description": "Description: Sets the x-axis border thickness\n      Type: Number\n      Range: In Pixels",
-    "body": "\"xAxisNameBorderThickness\": \"\""
-  },
-  "XAxisNameBorderDashed": {
-    "prefix": "xAxisNameBorderDashed",
-    "description": "Description: Whether the border around the x-axis name should be rendered using dashed lines. \n\n__Default value__: 0 (border rendered using straight lines)\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"xAxisNameBorderDashed\": \"${1|1,0|}\""
-  },
-  "XAxisNameBorderDashLen": {
-    "prefix": "xAxisNameBorderDashLen",
-    "description": "Description: Sets the length of each dash when the border around the x-axis name is rendered using dashed lines.\n      Type: Number\n      Range: In pixels",
-    "body": "\"xAxisNameBorderDashLen\": \"\""
-  },
-  "XAxisNameBorderDashGap": {
-    "prefix": "xAxisNameBorderDashGap",
-    "description": "Description: Sets the gap between consecutive dashes when the border around the x-axis name is rendered using dashed lines.\n      Type: Number\n      Range: In pixels",
-    "body": "\"xAxisNameBorderDashGap\": \"\""
-  },
-  "YAxisNameFont": {
-    "prefix": "yAxisNameFont",
-    "description": "Description: Sets the y-axis (primary / secondary) font family for the text\n      Type: String\n      Range: Font Name",
-    "body": "\"yAxisNameFont\": \"\""
-  },
-  "YAxisNameFontColor": {
-    "prefix": "yAxisNameFontColor",
-    "description": "Description: Sets the y-axis (primary / secondary) font color\n      Type: Color\n      Range: Hex Color Code",
-    "body": "\"yAxisNameFontColor\": \"\""
-  },
-  "YAxisNameFontSize": {
-    "prefix": "yAxisNameFontSize",
-    "description": "Description: Specifies the y-axis (primary / secondary) font size\n      Type: Number\n      Range: 6 - 72",
-    "body": "\"yAxisNameFontSize\": \"\""
-  },
-  "YAxisNameFontBold": {
-    "prefix": "yAxisNameFontBold",
-    "description": "Description: Whether y-axis (primary / secondary) font should be bold\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"yAxisNameFontBold\": \"${1|1,0|}\""
-  },
-  "YAxisNameFontItalic": {
-    "prefix": "yAxisNameFontItalic",
-    "description": "Description: Whether y-axis (primary / secondary) font should be italicized\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"yAxisNameFontItalic\": \"${1|1,0|}\""
-  },
-  "YAxisNameBgColor": {
-    "prefix": "yAxisNameBgColor",
-    "description": "Description: Sets the background color for y-axis (primary / secondary) text\n      Type: Color\n      Range: Hex Color Code",
-    "body": "\"yAxisNameBgColor\": \"\""
-  },
-  "YAxisNameBorderColor": {
-    "prefix": "yAxisNameBorderColor",
-    "description": "Description: Sets the border around the y-axis (primary / secondary) text\n      Type: Color\n      Range: Hex Color Code",
-    "body": "\"yAxisNameBorderColor\": \"\""
-  },
-  "YAxisNameAlpha": {
-    "prefix": "yAxisNameAlpha",
-    "description": "Description: Sets the y-axis (primary / secondary) alpha including font and background\n      Type: Number\n      Range: 0 - 100",
-    "body": "\"yAxisNameAlpha\": \"\""
-  },
-  "YAxisNameFontAlpha": {
-    "prefix": "yAxisNameFontAlpha",
-    "description": "Description: Sets the y-axis (primary / secondary) font alpha\n      Type: Number\n      Range: 0 - 100",
-    "body": "\"yAxisNameFontAlpha\": \"\""
-  },
-  "YAxisNameBgAlpha": {
-    "prefix": "yAxisNameBgAlpha",
-    "description": "Description: Sets the y-axis (primary / secondary) background alpha\n      Type: Number\n      Range: 0 - 100",
-    "body": "\"yAxisNameBgAlpha\": \"\""
-  },
-  "YAxisNameBorderAlpha": {
-    "prefix": "yAxisNameBorderAlpha",
-    "description": "Description: Sets the y-axis (primary / secondary) border alpha\n      Type: Number\n      Range: 0 - 100",
-    "body": "\"yAxisNameBorderAlpha\": \"\""
-  },
-  "YAxisNameBorderPadding": {
-    "prefix": "yAxisNameBorderPadding",
-    "description": "Description: Sets the y-axis (primary / secondary) border padding\n      Type: Number\n      Range: In Pixels",
-    "body": "\"yAxisNameBorderPadding\": \"\""
-  },
-  "YAxisNameBorderRadius": {
-    "prefix": "yAxisNameBorderRadius",
-    "description": "Description: Sets the y-axis (primary / secondary) border radius\n      Type: Number\n      Range: In Pixels",
-    "body": "\"yAxisNameBorderRadius\": \"\""
-  },
-  "YAxisNameBorderThickness": {
-    "prefix": "yAxisNameBorderThickness",
-    "description": "Description: Sets the y-axis (primary / secondary) border thickness\n      Type: Number\n      Range: In Pixels",
-    "body": "\"yAxisNameBorderThickness\": \"\""
-  },
-  "YAxisNameBorderDashed": {
-    "prefix": "yAxisNameBorderDashed",
-    "description": "Description: Whether the border around the y-axis name should be rendered using dashed lines. \n\n__Default value__: 0 (border rendered using straight lines)\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"yAxisNameBorderDashed\": \"${1|1,0|}\""
-  },
-  "YAxisNameBorderDashLen": {
-    "prefix": "yAxisNameBorderDashLen",
-    "description": "Description: Sets the length of each dash when the border around the y-axis name is rendered using dashed lines.\n      Type: Number\n      Range: In pixels",
-    "body": "\"yAxisNameBorderDashLen\": \"\""
-  },
-  "YAxisNameBorderDashGap": {
-    "prefix": "yAxisNameBorderDashGap",
-    "description": "Description: Sets the gap between two consecutive dashes when the border around the y-axis name is rendered using dashed lines.\n      Type: Number\n      Range: In pixels",
-    "body": "\"yAxisNameBorderDashGap\": \"\""
-  },
-  "CanvasBaseColor": {
-    "prefix": "canvasBaseColor",
-    "description": "Description: Helps you specify the color for canvas base.\n      Type: Color\n      Range: Hex Color Code",
-    "body": "\"canvasBaseColor\": \"\""
-  },
-  "ShowCanvasBg": {
-    "prefix": "showCanvasBg",
-    "description": "Description: Whether to show canvas background.\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"showCanvasBg\": \"${1|1,0|}\""
-  },
-  "ShowCanvasBase": {
-    "prefix": "showCanvasBase",
-    "description": "Description: Whether to show canvas base.\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"showCanvasBase\": \"${1|1,0|}\""
-  },
-  "CanvasBaseDepth": {
-    "prefix": "canvasBaseDepth",
-    "description": "Description: Height of canvas base (in pixels)\n      Type: Number\n      Range: In Pixels",
-    "body": "\"canvasBaseDepth\": \"\""
-  },
-  "CanvasBgDepth": {
-    "prefix": "canvasBgDepth",
-    "description": "Description: Depth of Canvas Background\n      Type: Number\n      Range: In Pixels",
-    "body": "\"canvasBgDepth\": \"\""
-  },
-  "OverlapColumns": {
-    "prefix": "overlapColumns",
-    "description": "Description: Whether to overlap columns over each other to give a richer 3D look. If there are too many columns on the chart, it will automatically overlap.\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"overlapColumns\": \"${1|1,0|}\""
-  },
-  "NumDivLines": {
-    "prefix": "numDivLines",
-    "description": "Description: Number of horizontal axis division lines that you want on the chart.\n      Type: Number\n      Range: Numeric value > 0",
-    "body": "\"numDivLines\": \"\""
-  },
-  "DivLineColor": {
-    "prefix": "divLineColor",
-    "description": "Description: Color for divisional lines.\n      Type: Color\n      Range: Hex Color Code",
-    "body": "\"divLineColor\": \"\""
-  },
-  "DivLineThickness": {
-    "prefix": "divLineThickness",
-    "description": "Description: Thickness of divisional lines.\n      Type: Number\n      Range: 1-5",
-    "body": "\"divLineThickness\": \"\""
-  },
-  "DivLineAlpha": {
-    "prefix": "divLineAlpha",
-    "description": "Description: Alpha of divisional lines.\n      Type: Number\n      Range: 0 - 100",
-    "body": "\"divLineAlpha\": \"\""
-  },
-  "DivLineDashed": {
-    "prefix": "divLineDashed",
-    "description": "Description: Whether the divisional lines should be rendered as dashed lines. \n\n__Default value__: 0 (divisional lines rendered using straight lines)\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"divLineDashed\": \"${1|1,0|}\""
-  },
-  "DivLineDashLen": {
-    "prefix": "divLineDashLen",
-    "description": "Description: Sets the length of each dash when divisional lines are rendered as dashed lines.\n      Type: Number\n      Range: In pixels",
-    "body": "\"divLineDashLen\": \"\""
-  },
-  "DivLineDashGap": {
-    "prefix": "divLineDashGap",
-    "description": "Description: Sets the gap between two consecutive dashes when divisional lines are rendered as dashed lines.\n      Type: Number\n      Range: In pixels",
-    "body": "\"divLineDashGap\": \"\""
-  },
-  "ZeroPlaneColor": {
-    "prefix": "zeroPlaneColor",
-    "description": "Description: Color for the Zero Plane. Zero Plane is the line/plane that appears at position 0 on the y-axis, when negative data is being shown on the chart.\n      Type: Color\n      Range: Hex Color Code",
-    "body": "\"zeroPlaneColor\": \"\""
-  },
-  "ZeroPlaneAlpha": {
-    "prefix": "zeroPlaneAlpha",
-    "description": "Description: Alpha of zero plane.\n      Type: Number\n      Range: 0 - 100",
-    "body": "\"zeroPlaneAlpha\": \"\""
-  },
   "ZeroPlaneThickness": {
     "prefix": "zeroPlaneThickness",
     "description": "Description: Thickness of zero plane.\n      Type: Number\n      Range: In Pixels",
     "body": "\"zeroPlaneThickness\": \"\""
-  },
-  "ZeroPlaneShowBorder": {
-    "prefix": "zeroPlaneShowBorder",
-    "description": "Description: Whether to show border of zero plane.\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"zeroPlaneShowBorder\": \"${1|1,0|}\""
-  },
-  "ZeroPlaneBorderColor": {
-    "prefix": "zeroPlaneBorderColor",
-    "description": "Description: Sets the border color of zero plane.\n      Type: Color\n      Range: Hex Color Code",
-    "body": "\"zeroPlaneBorderColor\": \"\""
-  },
-  "ShowZeroPlaneValue": {
-    "prefix": "showZeroPlaneValue",
-    "description": "Description: Allows you to show or hide the value on which the zero plane exists on the y-axis. By default, the value is displayed.\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"showZeroPlaneValue\": \"${1|1,0|}\""
-  },
-  "XAxisNamePadding": {
-    "prefix": "xAxisNamePadding",
-    "description": "Description: Using this, you can set the distance between the top end of x-axis title and the bottom end of data labels (or canvas, if data labels are not to be shown).\n      Type: Number\n      Range: In Pixels",
-    "body": "\"xAxisNamePadding\": \"\""
-  },
-  "YAxisNamePadding": {
-    "prefix": "yAxisNamePadding",
-    "description": "Description: Using this, you can set the distance between the right end of y-axis title and the start of y-axis values (or canvas, if the y-axis values are not to be shown).\n      Type: Number\n      Range: In Pixels",
-    "body": "\"yAxisNamePadding\": \"\""
-  },
-  "YAxisValuesPadding": {
-    "prefix": "yAxisValuesPadding",
-    "description": "Description: This attribute helps you set the horizontal space between the canvas left edge and the y-axis values or trend line values (on left/right side). This is particularly useful, when you want more space between your canvas and y-axis values.\n      Type: Number\n      Range: In Pixels",
-    "body": "\"yAxisValuesPadding\": \"\""
-  },
-  "LabelPadding": {
-    "prefix": "labelPadding",
-    "description": "Description: This attribute sets the vertical space between the labels and canvas bottom edge. If you want more space between the canvas and the x-axis labels, you can use this attribute to control it.\n      Type: Number\n      Range: In Pixels",
-    "body": "\"labelPadding\": \"\""
-  },
-  "VLine": {
-    "prefix": "vLine",
-    "description": "Description: Set this attribute to __true__ to render a vertical data separator line.\n      Type: String\n",
-    "body": "\"vLine\": \"\""
-  },
-  "ShowLabelBorder": {
-    "prefix": "showLabelBorder",
-    "description": "Description: Whether to show a border around the vLine label.\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"showLabelBorder\": \"${1|1,0|}\""
-  },
-  "LinePosition": {
-    "prefix": "linePosition",
-    "description": "Description: Helps configure the position of vertical line i.e., if a vLine is to be plotted between 2 points Jan and Feb, user can set any position between 0 and 1 to indicate the relative position of vLine between these two points (0 means Jan and 1 means Feb). By default, it’s 0.5 to show in between the points.\n      Type: Number\n      Range: 0-1",
-    "body": "\"linePosition\": \"\""
-  },
-  "LabelPosition": {
-    "prefix": "labelPosition",
-    "description": "Description: Helps configure the position of the vLine label by setting a relative position between 0 and 1. In vertical charts, 0 means top of canvas and 1 means bottom. In horizontal charts, 0 means left of canvas and 1 means right.\n      Type: Number\n      Range: 0-1",
-    "body": "\"labelPosition\": \"\""
-  },
-  "LabelHAlign": {
-    "prefix": "labelHAlign",
-    "description": "Description: Horizontal anchor point for the alignment of vLine label.\n      Type: String\n      Range: left, center, right",
-    "body": "\"labelHAlign\": \"\""
-  },
-  "LabelVAlign": {
-    "prefix": "labelVAlign",
-    "description": "Description: Vertical anchor point for the alignment of vLine label.\n      Type: String\n      Range: top, middle, bottom",
-    "body": "\"labelVAlign\": \"\""
-  },
-  "ValueOnRight": {
-    "prefix": "valueOnRight",
-    "description": "Description: Whether to show the trend line value on left side or right side of chart. This is particularly useful when the trend line display values on the chart are colliding with divisional lines values on the chart.\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"valueOnRight\": \"${1|1,0|}\""
-  },
-  "TrendValueFont": {
-    "prefix": "trendValueFont",
-    "description": "Description: Sets the font family for the trend-line display value.\n      Type: String\n      Range: Font Name",
-    "body": "\"trendValueFont\": \"\""
-  },
-  "TrendValueFontSize": {
-    "prefix": "trendValueFontSize",
-    "description": "Description: Sets the font size for the trend-line display value.\n      Type: Number\n      Range:  ",
-    "body": "\"trendValueFontSize\": \"\""
-  },
-  "TrendValueFontBold": {
-    "prefix": "trendValueFontBold",
-    "description": "Description: Sets whether the trend-line display value will be bold formatted. \n\nDefault value: 0 (not bold formatted)\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"trendValueFontBold\": \"${1|1,0|}\""
-  },
-  "TrendValueFontItalic": {
-    "prefix": "trendValueFontItalic",
-    "description": "Description: Sets whether the trend-line display value will be italicized. \n\nDefault value: 0 (not italicized)\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"trendValueFontItalic\": \"${1|1,0|}\""
-  },
-  "TrendValueBgColor": {
-    "prefix": "trendValueBgColor",
-    "description": "Description: Sets the background color for the trend-line display value.\n      Type: Color\n      Range: Hex Color Code",
-    "body": "\"trendValueBgColor\": \"\""
-  },
-  "TrendValueBorderColor": {
-    "prefix": "trendValueBorderColor",
-    "description": "Description: Sets the border color for the trend-line display value.\n      Type: Color\n      Range: Hex Color Code",
-    "body": "\"trendValueBorderColor\": \"\""
-  },
-  "TrendValueAlpha": {
-    "prefix": "trendValueAlpha",
-    "description": "Description: Sets the transparency for the trend-line display value. \n\nDefault value: 100\n      Type: Number\n      Range: 0 - 100",
-    "body": "\"trendValueAlpha\": \"\""
-  },
-  "TrendValueBgAlpha": {
-    "prefix": "trendValueBgAlpha",
-    "description": "Description: Sets the transparency for the background of the trend-line display value. \n\nDefault value: 100\n      Type: Number\n      Range: 0 - 100",
-    "body": "\"trendValueBgAlpha\": \"\""
-  },
-  "TrendValueBorderAlpha": {
-    "prefix": "trendValueBorderAlpha",
-    "description": "Description: Sets the transparency for the border around the trend-line display value. \n\nDefault value: 100\n      Type: Number\n      Range: 0 - 100",
-    "body": "\"trendValueBorderAlpha\": \"\""
-  },
-  "TrendValueBorderPadding": {
-    "prefix": "trendValueBorderPadding",
-    "description": "Description: Sets padding for the border around the trend-line display value. \n      Type: Number\n      Range: In pixels",
-    "body": "\"trendValueBorderPadding\": \"\""
-  },
-  "TrendValueBorderRadius": {
-    "prefix": "trendValueBorderRadius",
-    "description": "Description: Sets the radius for the border around the trend-line display value. \n      Type: Number\n      Range: In pixels",
-    "body": "\"trendValueBorderRadius\": \"\""
-  },
-  "TrendValueBorderThickness": {
-    "prefix": "trendValueBorderThickness",
-    "description": "Description: Sets the thickness for the border around the trend-line display value. \n      Type: Number\n      Range: In pixels",
-    "body": "\"trendValueBorderThickness\": \"\""
-  },
-  "TrendValueBorderDashed": {
-    "prefix": "trendValueBorderDashed",
-    "description": "Description: Whether the border around the trend-line display value should be rendered as dashed lines. \n\n__Default value__: 0 (border rendered using straight lines)\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"trendValueBorderDashed\": \"${1|1,0|}\""
-  },
-  "TrendValueBorderDashLen": {
-    "prefix": "trendValueBorderDashLen",
-    "description": "Description: Sets the length of each dash when the border around the trend-line display value is rendered as dashed lines.\n      Type: Number\n      Range: In pixels",
-    "body": "\"trendValueBorderDashLen\": \"\""
-  },
-  "TrendValueBorderDashGap": {
-    "prefix": "trendValueBorderDashGap",
-    "description": "Description: Sets the gap between two consecutive dashes when the border around the trend-line display value is rendered as dashed lines.\n      Type: Number\n      Range: In pixels",
-    "body": "\"trendValueBorderDashGap\": \"\""
   },
   "Animate3D": {
     "prefix": "animate3D",
@@ -4213,11 +4133,6 @@
     "prefix": "xLabelGap",
     "description": "Description: This attribute sets the vertical space between the labels and canvas wall edge. If you want more space between the canvas and the x-axis labels, you can use this attribute to control it.\n      Type: Number\n      Range: In Pixels",
     "body": "\"xLabelGap\": \"\""
-  },
-  "RenderAs": {
-    "prefix": "renderAs",
-    "description": "Description: This attribute defines what the particular dataset will be plotted as. Valid values are COLUMN, AREA or LINE.\n      Type: String\n      Range: COLUMN, AREA or LINE",
-    "body": "\"renderAs\": \"\""
   },
   "Use3DLighting": {
     "prefix": "use3DLighting",
@@ -4574,30 +4489,15 @@
     "description": "Description: You can individually opt to show/hide labels of individual data items using this attribute.\n      Type: Boolean\n      Range: 0/1",
     "body": "\"showLabel\": \"${1|1,0|}\""
   },
-  "HoverColor": {
-    "prefix": "hoverColor",
-    "description": "Description: This attribute can set the hover color for a particular data plot.\n      Type: Color\n      Range: Hex Color Code",
-    "body": "\"hoverColor\": \"\""
+  "PieYScale": {
+    "prefix": "pieYScale",
+    "description": "Description: This attribute alters the y-perspective of the pie in percentage figures. 100 percent means the full pie face is visible and 0 percent means only the side face is visible.\n      Type: Number\n      Range: 30-80",
+    "body": "\"pieYScale\": \"\""
   },
-  "HoverAlpha": {
-    "prefix": "hoverAlpha",
-    "description": "Description: This attribute sets the transparency for a particular data plot when hovered.\n      Type: Number\n      Range: 0 - 100",
-    "body": "\"hoverAlpha\": \"\""
-  },
-  "BorderHoverColor": {
-    "prefix": "borderHoverColor",
-    "description": "Description: This attribute sets the border color of the data plot on hover.\n      Type: Color\n      Range: Hex Color Code",
-    "body": "\"borderHoverColor\": \"\""
-  },
-  "BorderHoverAlpha": {
-    "prefix": "borderHoverAlpha",
-    "description": "Description: This attribute sets the border's transparency for the data plot on hover.\n      Type: Number\n      Range: 0 - 100",
-    "body": "\"borderHoverAlpha\": \"\""
-  },
-  "BorderHoverThickness": {
-    "prefix": "borderHoverThickness",
-    "description": "Description: This attribute sets the thickness for the data plot's border on hover.\n      Type: Number\n      Range: In pixels",
-    "body": "\"borderHoverThickness\": \"\""
+  "PieSliceDepth": {
+    "prefix": "pieSliceDepth",
+    "description": "Description: This attribute controls the pie 3D Depth.\n      Type: Number\n      Range: In Pixels",
+    "body": "\"pieSliceDepth\": \"\""
   },
   "EnableLink": {
     "prefix": "enableLink",
@@ -4611,27 +4511,27 @@
   },
   "SnapToDivOnly": {
     "prefix": "snapToDivOnly",
-    "description": "Description: Using this option, you can set the configuration that data points can be dragged only to the nearest divisional lines on chart. That means, the data points cannot acquire a value between any two divisional lines and as such, they will always fall on a divisional line value.\n      Type: Boolean\n      Range: 0/1",
+    "description": "Description: Using this option, you can set the configuration that columns can be dragged only to the nearest divisional lines on chart. That means, the columns cannot acquire a value between any two divisional lines and as such, they will always fall on a divisional line value.\n      Type: Boolean\n      Range: 0/1",
     "body": "\"snapToDivOnly\": \"${1|1,0|}\""
   },
   "SnapToDiv": {
     "prefix": "snapToDiv",
-    "description": "Description: When dragging the lines, you can snap them to the nearest divisional line on chart. To do so, just set this attribute as 1. The difference between this attribute and `snapToDivOnly` attribute is that `snapToDivOnly` attribute (when set to 1) allows you to drag the data points onto a div line. But using this attribute, you can create a &quot;sticky&quot; kind of interface, so that when the data points is dropped near a divisional line, it assumes the divisional line value. However, if it's dropped at a farther location, it will stay here.\n      Type: Boolean\n      Range: 0/1",
+    "description": "Description: When dragging the columns, you can snap them to the nearest divisional line on chart. To do so, just set this attribute as 1. The difference between this attribute and `snapToDivOnly` attribute is that `snapToDivOnly` attribute (when set to 1) allows you to drag the columns onto a div line. But using this attribute, you can create a &quot;sticky&quot; kind of interface, so that when the column is dropped near a divisional line, it assumes the divisional line value. However, if it is dropped at a farther location, it will stay here.\n      Type: Boolean\n      Range: 0/1",
     "body": "\"snapToDiv\": \"${1|1,0|}\""
   },
   "SnapToDivRelaxation": {
     "prefix": "snapToDivRelaxation",
-    "description": "Description: When snaptoDiv is set to 1, this attribute lets you set the distance in pixels (from each divisional lines), where the data points will behave &quot;sticky&quot;.\n      Type: Number\n      Range: In pixels",
+    "description": "Description: When snaptoDiv is set to 1, this attribute lets you set the distance in pixels (from each divisional lines), where the columns will behave &quot;sticky&quot;.\n      Type: Number\n      Range: In pixels",
     "body": "\"snapToDivRelaxation\": \"\""
   },
   "DoNotSnap": {
     "prefix": "doNotSnap",
-    "description": "Description: If you do not want the data points to stick to any divisional lines, set this attribute as 1.\n      Type: Boolean\n      Range: 0/1",
+    "description": "Description: If you do not want the columns to stick to any divisional lines, set this attribute as 1.\n      Type: Boolean\n      Range: 0/1",
     "body": "\"doNotSnap\": \"${1|1,0|}\""
   },
   "AllowNegativeDrag": {
     "prefix": "allowNegativeDrag",
-    "description": "Description: If you have positive as well as negative numbers on your chart, this attribute lets you configure whether the positive data points can be made negative by dragging them below zero plane.\n      Type: Boolean\n      Range: 0/1",
+    "description": "Description: If you have positive as well as negative numbers on your chart, this attribute lets you configure whether the positive columns can be made negative by dragging them below zero plane.\n      Type: Boolean\n      Range: 0/1",
     "body": "\"allowNegativeDrag\": \"${1|1,0|}\""
   },
   "ViewMode": {
@@ -5729,6 +5629,26 @@
     "description": "Description: Width percent of the color range that the plot fill bar should occupy.\n      Type: Number\n      Range: 0 - 100",
     "body": "\"plotFillPercent\": \"\""
   },
+  "PlotFillColor": {
+    "prefix": "plotFillColor",
+    "description": "Description: Fill color for the plot bar.\n      Type: Color\n      Range: Hex Color Code",
+    "body": "\"plotFillColor\": \"\""
+  },
+  "PlotFillAlpha": {
+    "prefix": "plotFillAlpha",
+    "description": "Description: Fill alpha for the plot bar.\n      Type: Number\n      Range: 0 - 100",
+    "body": "\"plotFillAlpha\": \"\""
+  },
+  "ShowPlotBorder": {
+    "prefix": "showPlotBorder",
+    "description": "Description: Whether to show border for the bar?\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"showPlotBorder\": \"${1|1,0|}\""
+  },
+  "PlotBorderAlpha": {
+    "prefix": "plotBorderAlpha",
+    "description": "Description: Border alpha for the bar.\n      Type: Number\n      Range: 0 - 100",
+    "body": "\"plotBorderAlpha\": \"\""
+  },
   "Target": {
     "prefix": "target",
     "description": "Description: Sets a vertical target line for the bullet.\n      Type: Number\n      Range: Between minValue & maxValue",
@@ -6149,6 +6069,11 @@
     "description": "Description: Sets the gap between consecutive dashes when line denoting decline trend are rendered as dashed lines.\n      Type: Number\n      Range: In Pixels",
     "body": "\"declineDashLen\": \"\""
   },
+  "LineDashed": {
+    "prefix": "lineDashed",
+    "description": "Description: Whether the lines should be rendered as dashed lines. \n\n__Default value__: 0 (lines rendered using straight lines)\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"lineDashed\": \"${1|1,0|}\""
+  },
   "LineDashLen": {
     "prefix": "lineDashLen",
     "description": "Description: Sets the length of each dash when lines are rendered as dashed lines.\n      Type: Number\n      Range: In pixels",
@@ -6158,6 +6083,46 @@
     "prefix": "lineDashGap",
     "description": "Description: Sets the gap between consecutive dashes when lines are rendered as dashed lines.\n      Type: Number\n      Range: In pixels",
     "body": "\"lineDashGap\": \"\""
+  },
+  "ShowZeroPlane": {
+    "prefix": "showZeroPlane",
+    "description": "Description: Whether to show the zero plane on chart (if negative values are present).\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"showZeroPlane\": \"${1|1,0|}\""
+  },
+  "NumVDivLines": {
+    "prefix": "numVDivLines",
+    "description": "Description: Number of vertical axis division lines\n      Type: Number\n      Range: Numeric value > 0",
+    "body": "\"numVDivLines\": \"\""
+  },
+  "VDivLineColor": {
+    "prefix": "vDivLineColor",
+    "description": "Description: Color of vertical axis division lines.\n      Type: Color\n      Range: Hex Color Code",
+    "body": "\"vDivLineColor\": \"\""
+  },
+  "VDivLineThickness": {
+    "prefix": "vDivLineThickness",
+    "description": "Description: Thickness of vertical axis division lines.\n      Type: Number\n      Range: In Pixels",
+    "body": "\"vDivLineThickness\": \"\""
+  },
+  "VDivLineAlpha": {
+    "prefix": "vDivLineAlpha",
+    "description": "Description: Alpha of vertical axis division lines.\n      Type: Number\n      Range: 0 - 100",
+    "body": "\"vDivLineAlpha\": \"\""
+  },
+  "VDivLineDashed": {
+    "prefix": "vDivLineDashed",
+    "description": "Description: Whether the vertical divisional lines should be rendered as dashed lines. \n\n__Default value__: 0 (vertical divisional lines using straight lines)\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"vDivLineDashed\": \"${1|1,0|}\""
+  },
+  "VDivLineDashLen": {
+    "prefix": "vDivLineDashLen",
+    "description": "Description: Sets the width of each dash when vertical divisional lines are rendered as dashed lines.\n      Type: Number\n      Range: In pixels",
+    "body": "\"vDivLineDashLen\": \"\""
+  },
+  "VDivLineDashGap": {
+    "prefix": "vDivLineDashGap",
+    "description": "Description: Sets the gap between two consecutive dashes when vertical divisional lines are rendered as dashed lines.\n      Type: Number\n      Range: In pixels",
+    "body": "\"vDivLineDashGap\": \"\""
   },
   "ValueAbovePointer": {
     "prefix": "valueAbovePointer",
@@ -6344,21 +6309,6 @@
     "description": "Description: If you hide a dataset using legend icon, this attribute (when set to `1`) will compute the axes limit with respect to maximum and minimum value of the visible dataset(s). \n\nDefault value: 0\n      Type: Boolean\n      Range: 0/1",
     "body": "\"transposeAxis\": \"${1|1,0|}\""
   },
-  "CenterXaxisName": {
-    "prefix": "centerXaxisName",
-    "description": "Description: This attribute when set to '1', allows you to align the x-axis name with respect to the height of the chart. When set to '0', the x-axis name is aligned with respect to the height of the canvas.\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"centerXaxisName\": \"${1|1,0|}\""
-  },
-  "RotateXAxisName": {
-    "prefix": "rotateXAxisName",
-    "description": "Description: If you do not wish to rotate x-axis name, set this as 0. It specifically comes to use when you've special characters (UTF8) in your x-axis name that do not show up in rotated mode.\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"rotateXAxisName\": \"${1|1,0|}\""
-  },
-  "XAxisNameWidth": {
-    "prefix": "xAxisNameWidth",
-    "description": "Description: If you opt to not rotate x-axis name, you can choose a maximum width that will be applied to x-axis name.\n      Type: Number\n      Range: (In Pixels)",
-    "body": "\"xAxisNameWidth\": \"\""
-  },
   "OverlapBars": {
     "prefix": "overlapBars",
     "description": "Description: Whether to overlap bars over each other to give a richer 3D look. If there are too many bars on the chart, it will automatically overlap.\n      Type: Boolean\n      Range: 0/1",
@@ -6378,6 +6328,11 @@
     "prefix": "syncAxisLimits",
     "description": "Description: Setting this attribute to 1 lets you synchronize the limits of both the primary and secondary axes.\n      Type: Boolean\n      Range: 0/1",
     "body": "\"syncAxisLimits\": \"${1|1,0|}\""
+  },
+  "TooltipGrayoutColor": {
+    "prefix": "tooltipGrayoutColor",
+    "description": "Description: This attribute sets the color of the unfocused plot in the tooltip for multi-series chart. By default it is set as gray. \n\nDefault value: __#AAAAAA__\n      Type: Color\n      Range: Hex Color Code",
+    "body": "\"tooltipGrayoutColor\": \"\""
   },
   "DrawVerticalJoins": {
     "prefix": "drawVerticalJoins",
@@ -6454,21 +6409,6 @@
     "description": "Description: Allows you to show the percentage values of the chart in tooltip.\n      Type: Boolean\n      Range: 0/1",
     "body": "\"showPercentInTooltip\": \"${1|1,0|}\""
   },
-  "ShowPlotBorder": {
-    "prefix": "showPlotBorder",
-    "description": "Description: Whether the pie border would show up.\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"showPlotBorder\": \"${1|1,0|}\""
-  },
-  "PlotBorderAlpha": {
-    "prefix": "plotBorderAlpha",
-    "description": "Description: Alpha for pie border.\n      Type: Number\n      Range: 0 - 100",
-    "body": "\"plotBorderAlpha\": \"\""
-  },
-  "PlotFillAlpha": {
-    "prefix": "plotFillAlpha",
-    "description": "Description: This attribute lets you set the fill alpha for plot.\n      Type: Number\n      Range: 0 - 100",
-    "body": "\"plotFillAlpha\": \"\""
-  },
   "ShadowColor": {
     "prefix": "shadowColor",
     "description": "Description: Lets you set a color of the shadow for pie.\n      Type: Color\n      Range: Hex Color Code",
@@ -6478,11 +6418,6 @@
     "prefix": "shadowAlpha",
     "description": "Description: Lets you set alpha of the shadow for pie.\n      Type: Number\n      Range: 0 - 100",
     "body": "\"shadowAlpha\": \"\""
-  },
-  "PlotFillColor": {
-    "prefix": "plotFillColor",
-    "description": "Description: Fill color for all the pies.\n      Type: Color\n      Range: Hex Color Code",
-    "body": "\"plotFillColor\": \"\""
   },
   "Pieborderthickness": {
     "prefix": "pieborderthickness",
@@ -6559,21 +6494,6 @@
     "description": "Description: The tooltip defined in the `category` object appears only when the mouse cursor is hovered over the individual slices. However, this will not appear when the cursor is moved over the data labels (except for a situation when long labels are automatically truncated with ellipses. In this situation, if the mouse cursor is hovered over a truncated label, the tooltip will appear with the full label). In case you want to set a short label and show the full label in tooltip, define the full label using this attribute within the `category` object. The tooltip with the full label will appear only when the mouse is hovered on the particular slice.\n      Type: String\n",
     "body": "\"toolText\": \"\""
   },
-  "TooltipGrayoutColor": {
-    "prefix": "tooltipGrayoutColor",
-    "description": "Description: This attribute sets the color of the unfocused plot in the tooltip for multi-series chart. By default it is set as gray. \n\nDefault value: __#AAAAAA__\n      Type: Color\n      Range: Hex Color Code",
-    "body": "\"tooltipGrayoutColor\": \"\""
-  },
-  "ShowSecondaryLimits": {
-    "prefix": "showSecondaryLimits",
-    "description": "Description: Whether to show secondary axis chart limit values.\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"showSecondaryLimits\": \"${1|1,0|}\""
-  },
-  "ShowDivLineSecondaryValue": {
-    "prefix": "showDivLineSecondaryValue",
-    "description": "Description: Whether to show div line values for the secondary y-axis.\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"showDivLineSecondaryValue\": \"${1|1,0|}\""
-  },
   "ShowCumulativeLine": {
     "prefix": "showCumulativeLine",
     "description": "Description: Whether to add the overlay line series over column plot. The values of line series is automatically calculated by chart as cumulative % values. It is plotted against the secondary y-axis.\n      Type: Boolean\n      Range: 0/1",
@@ -6589,115 +6509,10 @@
     "description": "Description: By default, when a line dataset is rendered over a column 3D dataset, the line dataset shifts in the z-dimension to give a 3D perspective. But, if you do not wish to add the perspective to the line dataset, you may set this attribute as 0.\n      Type: Boolean\n      Range: 0/1",
     "body": "\"use3DLineShift\": \"${1|1,0|}\""
   },
-  "SYAxisName": {
-    "prefix": "sYAxisName",
-    "description": "Description: Secondary y-axis title\n      Type: String\n",
-    "body": "\"sYAxisName\": \"\""
-  },
   "PrimaryAxisOnLeft": {
     "prefix": "primaryAxisOnLeft",
     "description": "Description: Setting this attribute to 0 helps in reversing the position of primary axis.\n      Type: Boolean\n      Range: 0/1",
     "body": "\"primaryAxisOnLeft\": \"${1|1,0|}\""
-  },
-  "PYAxisNameWidth": {
-    "prefix": "pYAxisNameWidth",
-    "description": "Description: If you opt to not rotate y-axis name, you can choose a maximum width that will be applied to primary y-axis name.\n      Type: Number\n      Range: (In Pixels)",
-    "body": "\"pYAxisNameWidth\": \"\""
-  },
-  "SYAxisNameWidth": {
-    "prefix": "sYAxisNameWidth",
-    "description": "Description: If you opt to not rotate y-axis name, you can choose a maximum width that will be applied to secondary y-axis name.\n      Type: Number\n      Range: (In Pixels)",
-    "body": "\"sYAxisNameWidth\": \"\""
-  },
-  "SYAxisValueDecimals": {
-    "prefix": "sYAxisValueDecimals",
-    "description": "Description: If you've opted to not adjust div lines, you can specify the div line values decimal precision using this attribute for the secondary axis.\n      Type: Number\n      Range: 0-10",
-    "body": "\"sYAxisValueDecimals\": \"\""
-  },
-  "SYAxisNameFont": {
-    "prefix": "sYAxisNameFont",
-    "description": "Description: Sets the secondary y-axis font family for the text\n      Type: String\n      Range: Font Name",
-    "body": "\"sYAxisNameFont\": \"\""
-  },
-  "SYAxisNameFontColor": {
-    "prefix": "sYAxisNameFontColor",
-    "description": "Description: Sets the secondary y-axis font color\n      Type: Color\n      Range: Hex Color Code",
-    "body": "\"sYAxisNameFontColor\": \"\""
-  },
-  "SYAxisNameFontSize": {
-    "prefix": "sYAxisNameFontSize",
-    "description": "Description: Specifies the secondary y-axis font size\n      Type: Number\n      Range: 6 - 72",
-    "body": "\"sYAxisNameFontSize\": \"\""
-  },
-  "SYAxisNameFontBold": {
-    "prefix": "sYAxisNameFontBold",
-    "description": "Description: Whether the secondary y-axis font should be bold\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"sYAxisNameFontBold\": \"${1|1,0|}\""
-  },
-  "SYAxisNameFontItalic": {
-    "prefix": "sYAxisNameFontItalic",
-    "description": "Description: Whether secondary y-axis font should be italicized\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"sYAxisNameFontItalic\": \"${1|1,0|}\""
-  },
-  "SYAxisNameBgColor": {
-    "prefix": "sYAxisNameBgColor",
-    "description": "Description: Sets the background color for secondary y-axis text\n      Type: Color\n      Range: Hex Color Code",
-    "body": "\"sYAxisNameBgColor\": \"\""
-  },
-  "SYAxisNameBorderColor": {
-    "prefix": "sYAxisNameBorderColor",
-    "description": "Description: Sets the border around the secondary y-axis text\n      Type: Color\n      Range: Hex Color Code",
-    "body": "\"sYAxisNameBorderColor\": \"\""
-  },
-  "SYAxisNameAlpha": {
-    "prefix": "sYAxisNameAlpha",
-    "description": "Description: Sets the secondary y-axis alpha including font and background\n      Type: Number\n      Range: 0 - 100",
-    "body": "\"sYAxisNameAlpha\": \"\""
-  },
-  "SYAxisNameFontAlpha": {
-    "prefix": "sYAxisNameFontAlpha",
-    "description": "Description: Sets the secondary y-axis font alpha\n      Type: Number\n      Range: 0 - 100",
-    "body": "\"sYAxisNameFontAlpha\": \"\""
-  },
-  "SYAxisNameBgAlpha": {
-    "prefix": "sYAxisNameBgAlpha",
-    "description": "Description: Sets the secondary y-axis background alpha\n      Type: Number\n      Range: 0 - 100",
-    "body": "\"sYAxisNameBgAlpha\": \"\""
-  },
-  "SYAxisNameBorderAlpha": {
-    "prefix": "sYAxisNameBorderAlpha",
-    "description": "Description: Sets the secondary y-axis border alpha\n      Type: Number\n      Range: 0 - 100",
-    "body": "\"sYAxisNameBorderAlpha\": \"\""
-  },
-  "SYAxisNameBorderPadding": {
-    "prefix": "sYAxisNameBorderPadding",
-    "description": "Description: Sets the secondary y-axis border padding\n      Type: Number\n      Range: In Pixels",
-    "body": "\"sYAxisNameBorderPadding\": \"\""
-  },
-  "SYAxisNameBorderRadius": {
-    "prefix": "sYAxisNameBorderRadius",
-    "description": "Description: Sets the secondary y-axis border radius\n      Type: Number\n      Range: In Pixels",
-    "body": "\"sYAxisNameBorderRadius\": \"\""
-  },
-  "SYAxisNameBorderThickness": {
-    "prefix": "sYAxisNameBorderThickness",
-    "description": "Description: Sets the secondary y-axis border thickness\n      Type: Number\n      Range: In Pixels",
-    "body": "\"sYAxisNameBorderThickness\": \"\""
-  },
-  "SYAxisNameBorderDashed": {
-    "prefix": "sYAxisNameBorderDashed",
-    "description": "Description: Whether the border around the primary y-axis name should be rendered using dashed lines. \n\n__Default value__: 0 (border rendered using straight lines)\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"sYAxisNameBorderDashed\": \"${1|1,0|}\""
-  },
-  "SYAxisNameBorderDashLen": {
-    "prefix": "sYAxisNameBorderDashLen",
-    "description": "Description: Sets the length of each dash when the border around the primary y-axis name is rendered using dashed lines.\n      Type: Number\n      Range: In Pixels",
-    "body": "\"sYAxisNameBorderDashLen\": \"\""
-  },
-  "SYAxisNameBorderDashGap": {
-    "prefix": "sYAxisNameBorderDashGap",
-    "description": "Description: Sets the gap between two consecutive dashes when the border around the primary y-axis name is rendered using dashed lines.\n      Type: Number\n      Range: In Pixels",
-    "body": "\"sYAxisNameBorderDashGap\": \"\""
   },
   "Sdecimals": {
     "prefix": "sdecimals",
@@ -6714,16 +6529,6 @@
     "description": "Description: Whether to plot against the primary axis or secondary axis. In case of Pareto chart, since secondary axis is 0 - 100%, you'll have to specify a value within this range.\n      Type: String\n      Range: P or S",
     "body": "\"parentYAxis\": \"\""
   },
-  "PieYScale": {
-    "prefix": "pieYScale",
-    "description": "Description: This attribute alters the y-perspective of the pie in percentage figures. 100 percent means the full pie face is visible and 0 percent means only the side face is visible.\n      Type: Number\n      Range: 30-80",
-    "body": "\"pieYScale\": \"\""
-  },
-  "PieSliceDepth": {
-    "prefix": "pieSliceDepth",
-    "description": "Description: This attribute controls the pie 3D Depth.\n      Type: Number\n      Range: In Pixels",
-    "body": "\"pieSliceDepth\": \"\""
-  },
   "PyramidYScale": {
     "prefix": "pyramidYScale",
     "description": "Description: Lets you set the 3D perspective of the pyramid. You'll need to restrict your values to a value between 0 and 40 (depending on your pyramid chart dimensions) to get a proper drawing.\n      Type: Number\n      Range: 0-40",
@@ -6733,6 +6538,31 @@
     "prefix": "use3dlighting",
     "description": "Description: This attribute when set to __1__ shows a 3D effect to the pyramid chart only when _is2d_ attribute is set to __1__ . When we set this attribute to __0__, it displays a simple pyramid chart.\n      Type: Boolean\n      Range: 0/1",
     "body": "\"use3dlighting\": \"${1|1,0|}\""
+  },
+  "HoverColor": {
+    "prefix": "hoverColor",
+    "description": "Description: This attribute can set the hover color for a particular data plot.\n      Type: Color\n      Range: Hex Color Code",
+    "body": "\"hoverColor\": \"\""
+  },
+  "HoverAlpha": {
+    "prefix": "hoverAlpha",
+    "description": "Description: This attribute sets the transparency for a particular data plot when hovered.\n      Type: Number\n      Range: 0 - 100",
+    "body": "\"hoverAlpha\": \"\""
+  },
+  "BorderHoverColor": {
+    "prefix": "borderHoverColor",
+    "description": "Description: This attribute sets the border color of a data plot on hover.\n      Type: Color\n      Range: Hex Color Code",
+    "body": "\"borderHoverColor\": \"\""
+  },
+  "BorderHoverAlpha": {
+    "prefix": "borderHoverAlpha",
+    "description": "Description: This attribute sets the border's transparency for a data plot on hover.\n      Type: Number\n      Range: 0 - 100",
+    "body": "\"borderHoverAlpha\": \"\""
+  },
+  "BorderHoverThickness": {
+    "prefix": "borderHoverThickness",
+    "description": "Description: This attribute sets the thickness for a data plot's border on hover.\n      Type: Number\n      Range: In pixels",
+    "body": "\"borderHoverThickness\": \"\""
   },
   "RadarRadius": {
     "prefix": "radarRadius",
@@ -6929,6 +6759,11 @@
     "description": "Description: This attribute can set the hover color for anchors of a particular dataset.\n      Type: Color\n      Range: Hex Color Code",
     "body": "\"anchorHoverColor\": \"\""
   },
+  "Showlabel": {
+    "prefix": "showlabel",
+    "description": "Description: Display label for the vLine.\n      Type: String\n",
+    "body": "\"showlabel\": \"\""
+  },
   "VariableIndex": {
     "prefix": "variableIndex",
     "description": "Description: Determines how the data index will be assigned to data plots in real-time charts. For `“variableIndex”: “1”`, a variable index is assigned to each of the chart container slots, and is updated every time a new data plot comes into the container. Therefore, a data plot retains the index assigned to it at the time of creation throughout its lifetime. When `“variableIndex”: “0”`, a fixed index is assigned to each of the chart container slots. Therefore, the index of a data plot changes every time the data plot changes its position. \n\nDefault value for this attribute is __1__.\n      Type: Boolean\n      Range: 0/1",
@@ -6989,11 +6824,6 @@
     "description": "Description: The tooltip defined in the `category` object appears only when the mouse cursor is hovered over the data plots. However, this will not appear when the cursor is moved over the data labels (except for a situation when long labels are automatically truncated with ellipses. In this situation, if the mouse cursor is hovered over a truncated label, the tooltip will appear with the full label). In case you want to set a short label and show the full label in tooltip, define the full label using this attribute within the `category` object. The tooltip with the full label will appear only when the mouse is hovered on the dataplot.\n      Type: String\n",
     "body": "\"tooltext\": \"\""
   },
-  "Showlabel": {
-    "prefix": "showlabel",
-    "description": "Description: Display label for the vLine.\n      Type: String\n",
-    "body": "\"showlabel\": \"\""
-  },
   "CheckForAlerts": {
     "prefix": "checkForAlerts",
     "description": "Description: Whether to run the values of this dataset through alert manager, each time an update is received?\n      Type: Boolean\n      Range: 0/1",
@@ -7023,11 +6853,6 @@
     "prefix": "submitDataAsXML",
     "description": "Description: Whether the chart should submit data to the given server side script as XML or as comma separated values.\n      Type: Boolean\n      Range: 0/1",
     "body": "\"submitDataAsXML\": \"${1|1,0|}\""
-  },
-  "ReverseXaxis": {
-    "prefix": "reverseXaxis",
-    "description": "Description: You can reverse the x-axis by setting this attribute to `1`. The x-axis values will appear in decreasing order from left to right. \n\n Default value: __0__\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"reverseXaxis\": \"${1|1,0|}\""
   },
   "Xnumberprefix": {
     "prefix": "xnumberprefix",
@@ -8209,14 +8034,9 @@
     "description": "Description: Whether the match was scoreless? The column can then be colored using a different color.\n      Type: Boolean\n      Range: 0/1",
     "body": "\"scoreless\": \"${1|1,0|}\""
   },
-  "ShowZeroPlane": {
-    "prefix": "showZeroPlane",
-    "description": "Description: Whether to show the zero plane on chart (if negative values are present).\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"showZeroPlane\": \"${1|1,0|}\""
-  },
   "ValuePosition": {
     "prefix": "valuePosition",
-    "description": "Description: If you've opted to show data values on the chart, this attribute lets you adjust the vertical alignment of data values with respect to dataplots. By default, this attribute is set to AUTO mode in which the alignment of each data value is determined automatically based on the position of each plot point. In ABOVE mode, data values are displayed above the plot points unless a plot point is too close to the upper edge of the canvas while in BELOW mode, data values are displayed below the plot points unless a plot point is too close to the lower edge of the canvas.\n      Type: String\n      Range: &quot;ABOVE&quot;, &quot;BELOW&quot;, &quot;AUTO&quot;",
+    "description": "Description: If you have opted to show data values on the chart, this attribute lets you adjust the vertical alignment of data values with respect to dataplots. By default, this attribute is set to AUTO mode in which the alignment of each data value is determined automatically based on the position of each plot point. In ABOVE mode, data values are displayed above the plot points unless a plot point is too close to the upper edge of the canvas while in BELOW mode, data values are displayed below the plot points unless a plot point is too close to the lower edge of the canvas.\n      Type: String\n      Range: &quot;ABOVE&quot;, &quot;BELOW&quot;, &quot;AUTO&quot;",
     "body": "\"valuePosition\": \"\""
   },
   "MinimizeTendency": {
@@ -8228,41 +8048,6 @@
     "prefix": "drawFullAreaBorder",
     "description": "Description: When set to `0`, instead of drawing a border for the entire chart canvas, this attribute will draw line on the canvas only to connect the data-points. \n\nDefault Value: __1__\n      Type: Boolean\n      Range: 0/1",
     "body": "\"drawFullAreaBorder\": \"${1|1,0|}\""
-  },
-  "NumVDivLines": {
-    "prefix": "numVDivLines",
-    "description": "Description: Number of vertical axis division lines.\n      Type: Number\n      Range: Numeric value > 0",
-    "body": "\"numVDivLines\": \"\""
-  },
-  "VDivLineColor": {
-    "prefix": "vDivLineColor",
-    "description": "Description: Color of vertical axis division lines.\n      Type: Color\n      Range: Hex Color Code",
-    "body": "\"vDivLineColor\": \"\""
-  },
-  "VDivLineThickness": {
-    "prefix": "vDivLineThickness",
-    "description": "Description: Thickness of vertical axis division lines.\n      Type: Number\n      Range: In Pixels",
-    "body": "\"vDivLineThickness\": \"\""
-  },
-  "VDivLineAlpha": {
-    "prefix": "vDivLineAlpha",
-    "description": "Description: Alpha of vertical axis division lines.\n      Type: Number\n      Range: 0 - 100",
-    "body": "\"vDivLineAlpha\": \"\""
-  },
-  "VDivLineDashed": {
-    "prefix": "vDivLineDashed",
-    "description": "Description: Whether the vertical divisional lines should be rendered as dashed lines. \n\n__Default value__: 0 (vertical divisional lines using straight lines)\n      Type: Boolean\n      Range: 0/1",
-    "body": "\"vDivLineDashed\": \"${1|1,0|}\""
-  },
-  "VDivLineDashLen": {
-    "prefix": "vDivLineDashLen",
-    "description": "Description: Sets the width of each dash when vertical divisional lines are rendered as dashed lines.\n      Type: Number\n      Range: In pixels",
-    "body": "\"vDivLineDashLen\": \"\""
-  },
-  "VDivLineDashGap": {
-    "prefix": "vDivLineDashGap",
-    "description": "Description: Sets the gap between two consecutive dashes when vertical divisional lines are rendered as dashed lines.\n      Type: Number\n      Range: In pixels",
-    "body": "\"vDivLineDashGap\": \"\""
   },
   "Stack100Percent": {
     "prefix": "stack100Percent",
@@ -8989,10 +8774,40 @@
     "description": "Description: Lets you set the space between the canvas border and first & last data points\n      Type: Number\n      Range: In Pixels",
     "body": "\"canvasPadding\": \"\""
   },
+  "PYAxisName": {
+    "prefix": "pYAxisName",
+    "description": "Description: Primary Y-Axis title.\n      Type: String\n",
+    "body": "\"pYAxisName\": \"\""
+  },
+  "SYAxisName": {
+    "prefix": "sYAxisName",
+    "description": "Description: Secondary y-axis title\n      Type: String\n",
+    "body": "\"sYAxisName\": \"\""
+  },
+  "PYAxisNameWidth": {
+    "prefix": "pYAxisNameWidth",
+    "description": "Description: If you opt to not rotate y-axis name, you can choose a maximum width that will be applied to primary y-axis name.\n      Type: Number\n      Range: In pixels",
+    "body": "\"pYAxisNameWidth\": \"\""
+  },
+  "SYAxisNameWidth": {
+    "prefix": "sYAxisNameWidth",
+    "description": "Description: If you opt to not rotate y-axis name, you can choose a maximum width that will be applied to secondary y-axis name.\n      Type: Number\n      Range: In pixels",
+    "body": "\"sYAxisNameWidth\": \"\""
+  },
   "SetAdaptiveSYMin": {
     "prefix": "setAdaptiveSYMin",
     "description": "Description: This attribute lets you set whether the secondary y-axis lower limit will be 0 (in case of all positive values on chart) or should the y-axis lower limit adapt itself to a different figure based on values provided to the chart.\n      Type: Boolean\n      Range: 0/1",
     "body": "\"setAdaptiveSYMin\": \"${1|1,0|}\""
+  },
+  "PYAxisMinValue": {
+    "prefix": "pYAxisMinValue",
+    "description": "Description: This attribute helps you explicitly set the lower limit of the primary y-axis. If you don't specify this value, it is automatically calculated by FusionCharts based on the data provided by you.\n      Type: Number\n",
+    "body": "\"pYAxisMinValue\": \"\""
+  },
+  "PYAxisMaxValue": {
+    "prefix": "pYAxisMaxValue",
+    "description": "Description: This attribute helps you explicitly set the upper limit of the primary y-axis. If you don't specify this value, it is automatically calculated by the chart based on the data provided by you.\n      Type: Number\n",
+    "body": "\"pYAxisMaxValue\": \"\""
   },
   "SYAxisMinValue": {
     "prefix": "sYAxisMinValue",
@@ -9004,10 +8819,195 @@
     "description": "Description: This attribute helps you explicitly set the upper limit of the secondary y-axis. If you don't specify this value, it is automatically calculated by the chart based on the data provided by you.\n      Type: Number\n",
     "body": "\"sYAxisMaxValue\": \"\""
   },
+  "ShowSecondaryLimits": {
+    "prefix": "showSecondaryLimits",
+    "description": "Description: Whether to show secondary axis chart limit values?\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"showSecondaryLimits\": \"${1|1,0|}\""
+  },
+  "ShowDivLineSecondaryValue": {
+    "prefix": "showDivLineSecondaryValue",
+    "description": "Description: Whether to show div line values for the secondary y-axis?\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"showDivLineSecondaryValue\": \"${1|1,0|}\""
+  },
+  "SYAxisValueDecimals": {
+    "prefix": "sYAxisValueDecimals",
+    "description": "Description: Decimal places for y-axis values on secondary y-axis.\n      Type: Number\n",
+    "body": "\"sYAxisValueDecimals\": \"\""
+  },
   "ForceSYAxisValueDecimals": {
     "prefix": "forceSYAxisValueDecimals",
     "description": "Description: Whether to force decimal places for y-axis values on secondary y-axis?\n      Type: Boolean\n      Range: 0/1",
     "body": "\"forceSYAxisValueDecimals\": \"${1|1,0|}\""
+  },
+  "PYAxisNameFont": {
+    "prefix": "pYAxisNameFont",
+    "description": "Description: Sets the primary y-axis font family for the text, in case of a dual-y axis chart\n      Type: String\n      Range: Font Name",
+    "body": "\"pYAxisNameFont\": \"\""
+  },
+  "PYAxisNameFontColor": {
+    "prefix": "pYAxisNameFontColor",
+    "description": "Description: Sets the primary y-axis font color\n      Type: Color\n      Range: Hex Color Code",
+    "body": "\"pYAxisNameFontColor\": \"\""
+  },
+  "PYAxisNameFontSize": {
+    "prefix": "pYAxisNameFontSize",
+    "description": "Description: Specifies the primary y-axis font size\n      Type: Number\n      Range: 6 - 72",
+    "body": "\"pYAxisNameFontSize\": \"\""
+  },
+  "PYAxisNameFontBold": {
+    "prefix": "pYAxisNameFontBold",
+    "description": "Description: Whether primary y-axis font should be bold\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"pYAxisNameFontBold\": \"${1|1,0|}\""
+  },
+  "PYAxisNameFontItalic": {
+    "prefix": "pYAxisNameFontItalic",
+    "description": "Description: Whether primary y-axis font should be italicized\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"pYAxisNameFontItalic\": \"${1|1,0|}\""
+  },
+  "PYAxisNameBgColor": {
+    "prefix": "pYAxisNameBgColor",
+    "description": "Description: Sets the background color for primary y-axis text\n      Type: Color\n      Range: Hex Color Code",
+    "body": "\"pYAxisNameBgColor\": \"\""
+  },
+  "PYAxisNameBorderColor": {
+    "prefix": "pYAxisNameBorderColor",
+    "description": "Description: Sets the border around the primary y-axis text\n      Type: Color\n      Range: Hex Color Code",
+    "body": "\"pYAxisNameBorderColor\": \"\""
+  },
+  "PYAxisNameAlpha": {
+    "prefix": "pYAxisNameAlpha",
+    "description": "Description: Sets the primary y-axis alpha including font and background\n      Type: Number\n      Range: 0 - 100",
+    "body": "\"pYAxisNameAlpha\": \"\""
+  },
+  "PYAxisNameFontAlpha": {
+    "prefix": "pYAxisNameFontAlpha",
+    "description": "Description: Sets the primary y-axis font alpha\n      Type: Number\n      Range: 0 - 100",
+    "body": "\"pYAxisNameFontAlpha\": \"\""
+  },
+  "PYAxisNameBgAlpha": {
+    "prefix": "pYAxisNameBgAlpha",
+    "description": "Description: Sets the primary y-axis background alpha\n      Type: Number\n      Range: 0 - 100",
+    "body": "\"pYAxisNameBgAlpha\": \"\""
+  },
+  "PYAxisNameBorderAlpha": {
+    "prefix": "pYAxisNameBorderAlpha",
+    "description": "Description: Sets the primary y-axis border alpha\n      Type: Number\n      Range: 0 - 100",
+    "body": "\"pYAxisNameBorderAlpha\": \"\""
+  },
+  "PYAxisNameBorderPadding": {
+    "prefix": "pYAxisNameBorderPadding",
+    "description": "Description: Sets the primary y-axis border padding\n      Type: Number\n      Range: In Pixels",
+    "body": "\"pYAxisNameBorderPadding\": \"\""
+  },
+  "PYAxisNameBorderRadius": {
+    "prefix": "pYAxisNameBorderRadius",
+    "description": "Description: Sets the primary y-axis border radius\n      Type: Number\n      Range: In Pixels",
+    "body": "\"pYAxisNameBorderRadius\": \"\""
+  },
+  "PYAxisNameBorderThickness": {
+    "prefix": "pYAxisNameBorderThickness",
+    "description": "Description: Sets the primary y-axis border thickness\n      Type: Number\n      Range: In Pixels",
+    "body": "\"pYAxisNameBorderThickness\": \"\""
+  },
+  "PYAxisNameBorderDashed": {
+    "prefix": "pYAxisNameBorderDashed",
+    "description": "Description: Whether the border around the primary y-axis name should be rendered using dashed lines. \n\n__Default value__: 0 (border rendered using straight lines)\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"pYAxisNameBorderDashed\": \"${1|1,0|}\""
+  },
+  "PYAxisNameBorderDashLen": {
+    "prefix": "pYAxisNameBorderDashLen",
+    "description": "Description: Sets the length of each dash when the border around the primary y-axis name is rendered using dashed lines.\n      Type: Number\n      Range: In Pixels",
+    "body": "\"pYAxisNameBorderDashLen\": \"\""
+  },
+  "PYAxisNameBorderDashGap": {
+    "prefix": "pYAxisNameBorderDashGap",
+    "description": "Description: Sets the gap between two consecutive dashes when the border around the primary y-axis name is rendered using dashed lines.\n      Type: Number\n      Range: In Pixels",
+    "body": "\"pYAxisNameBorderDashGap\": \"\""
+  },
+  "SYAxisNameFont": {
+    "prefix": "sYAxisNameFont",
+    "description": "Description: Sets the secondary y-axis font family for the text\n      Type: String\n      Range: Font Name",
+    "body": "\"sYAxisNameFont\": \"\""
+  },
+  "SYAxisNameFontColor": {
+    "prefix": "sYAxisNameFontColor",
+    "description": "Description: Sets the secondary y-axis font color\n      Type: Color\n      Range: Hex Color Code",
+    "body": "\"sYAxisNameFontColor\": \"\""
+  },
+  "SYAxisNameFontSize": {
+    "prefix": "sYAxisNameFontSize",
+    "description": "Description: Specifies the secondary y-axis font size\n      Type: Number\n      Range: 6 - 72",
+    "body": "\"sYAxisNameFontSize\": \"\""
+  },
+  "SYAxisNameFontBold": {
+    "prefix": "sYAxisNameFontBold",
+    "description": "Description: Whether the secondary y-axis font should be bold\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"sYAxisNameFontBold\": \"${1|1,0|}\""
+  },
+  "SYAxisNameFontItalic": {
+    "prefix": "sYAxisNameFontItalic",
+    "description": "Description: Whether secondary y-axis font should be italicized\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"sYAxisNameFontItalic\": \"${1|1,0|}\""
+  },
+  "SYAxisNameBgColor": {
+    "prefix": "sYAxisNameBgColor",
+    "description": "Description: Sets the background color for secondary y-axis text\n      Type: Color\n      Range: Hex Color Code",
+    "body": "\"sYAxisNameBgColor\": \"\""
+  },
+  "SYAxisNameBorderColor": {
+    "prefix": "sYAxisNameBorderColor",
+    "description": "Description: Sets the border around the secondary y-axis text\n      Type: Color\n      Range: Hex Color Code",
+    "body": "\"sYAxisNameBorderColor\": \"\""
+  },
+  "SYAxisNameAlpha": {
+    "prefix": "sYAxisNameAlpha",
+    "description": "Description: Sets the secondary y-axis alpha including font and background\n      Type: Number\n      Range: 0 - 100",
+    "body": "\"sYAxisNameAlpha\": \"\""
+  },
+  "SYAxisNameFontAlpha": {
+    "prefix": "sYAxisNameFontAlpha",
+    "description": "Description: Sets the secondary y-axis font alpha\n      Type: Number\n      Range: 0 - 100",
+    "body": "\"sYAxisNameFontAlpha\": \"\""
+  },
+  "SYAxisNameBgAlpha": {
+    "prefix": "sYAxisNameBgAlpha",
+    "description": "Description: Sets the secondary y-axis background alpha\n      Type: Number\n      Range: 0 - 100",
+    "body": "\"sYAxisNameBgAlpha\": \"\""
+  },
+  "SYAxisNameBorderAlpha": {
+    "prefix": "sYAxisNameBorderAlpha",
+    "description": "Description: Sets the secondary y-axis border alpha\n      Type: Number\n      Range: 0 - 100",
+    "body": "\"sYAxisNameBorderAlpha\": \"\""
+  },
+  "SYAxisNameBorderPadding": {
+    "prefix": "sYAxisNameBorderPadding",
+    "description": "Description: Sets the secondary y-axis border padding\n      Type: Number\n      Range: In Pixels",
+    "body": "\"sYAxisNameBorderPadding\": \"\""
+  },
+  "SYAxisNameBorderRadius": {
+    "prefix": "sYAxisNameBorderRadius",
+    "description": "Description: Sets the secondary y-axis border radius\n      Type: Number\n      Range: In Pixels",
+    "body": "\"sYAxisNameBorderRadius\": \"\""
+  },
+  "SYAxisNameBorderThickness": {
+    "prefix": "sYAxisNameBorderThickness",
+    "description": "Description: Sets the secondary y-axis border thickness\n      Type: Number\n      Range: In Pixels",
+    "body": "\"sYAxisNameBorderThickness\": \"\""
+  },
+  "SYAxisNameBorderDashed": {
+    "prefix": "sYAxisNameBorderDashed",
+    "description": "Description: Whether the border around the primary y-axis name should be rendered using dashed lines. \n\n__Default value__: 0 (border rendered using straight lines)\n      Type: Boolean\n      Range: 0/1",
+    "body": "\"sYAxisNameBorderDashed\": \"${1|1,0|}\""
+  },
+  "SYAxisNameBorderDashLen": {
+    "prefix": "sYAxisNameBorderDashLen",
+    "description": "Description: Sets the length of each dash when the border around the primary y-axis name is rendered using dashed lines.\n      Type: Number\n      Range: In Pixels",
+    "body": "\"sYAxisNameBorderDashLen\": \"\""
+  },
+  "SYAxisNameBorderDashGap": {
+    "prefix": "sYAxisNameBorderDashGap",
+    "description": "Description: Sets the gap between two consecutive dashes when the border around the primary y-axis name is rendered using dashed lines.\n      Type: Number\n      Range: In Pixels",
+    "body": "\"sYAxisNameBorderDashGap\": \"\""
   },
   "SFormatNumber": {
     "prefix": "sFormatNumber",
