@@ -2,7 +2,7 @@
   "name": "fusioncharts-code-generator",
   "displayName": "FusionCharts Code Generator",
   "description": "A Visual Studio Code extension to generate code to simplify implementation of FusionCharts.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "engines": {
     "vscode": "^1.31.0"
   },

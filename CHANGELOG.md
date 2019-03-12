@@ -17,3 +17,7 @@ All notable changes to the "fusioncharts-snippet" extension will be documented i
 ## [1.0.3]
 
 - Added installation snippets for html via local files and cdn.
+
+## [1.0.4]
+
+- README fixed.

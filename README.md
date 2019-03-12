@@ -1,4 +1,4 @@
-# fusioncharts-snippet README
+# FusionCharts Code Generator README
 
 This is a Visual Studio Code extension which will ease the usage and implementation of FusionCharts Library.
 
@@ -19,6 +19,6 @@ This is a Visual Studio Code extension which will ease the usage and implementat
 
 Initial release of FusionCharts Code Generator
 
-### 1.0.3
+### 1.0.4
 
-Added more snippets.
+Added more snippets and updated readme.
