@@ -1,0 +1,22 @@
+{
+  "Import CDN": {
+    "prefix": "fcdn",
+    "body": [
+      "$BLOCK_COMMENT_START Step 1 - Including the fusioncharts core library $BLOCK_COMMENT_END",
+      "<script type=\"text/javascript\" src=\"http://cdn.fusioncharts.com/fusioncharts/latest/fusioncharts.js\"></script>",
+      "$BLOCK_COMMENT_START Step 2 - Including the fusion theme $BLOCK_COMMENT_END",
+      "<script type=\"text/javascript\" src=\"http://cdn.fusioncharts.com/fusioncharts/latest/fusioncharts.theme.fusion.js\"></script>"
+    ],
+    "description": "Include FusionCharts files via CDN in your HTML file."
+  },
+  "Import Local Files": {
+    "prefix": "flcl",
+    "body": [
+      "$BLOCK_COMMENT_START Step 1 - Including the fusioncharts core library $BLOCK_COMMENT_END",
+      "<script type=\"text/javascript\" src=\"path/to/local/fusioncharts.js\"></script>",
+      "$BLOCK_COMMENT_START Step 2 - Including the fusion theme $BLOCK_COMMENT_END",
+      "<script type=\"text/javascript\" src=\"path/to/local/themes/fusioncharts.theme.fusion.js\"></script>"
+    ],
+    "description": "Include FusionCharts files via CDN in your HTML file."
+  }
+}
